@@ -1,0 +1,17 @@
+black
+beige
+tan
+brown
+—
+gray
+burgundy
+white
+silver
+off-white
+red
+yellow
+green
+purple
+blue
+orange
+gold
