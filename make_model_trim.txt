@@ -1,96 +1,96 @@
 {
     "Acura": {
         "CL": [
-            "2.3",
-            "2.2",
-            "3.2",
+            "3.0 Premium",
+            "3.2 Type-S",
             "3",
             "2.3 Premium",
-            "3.0 Premium",
             "2.2 Premium",
-            "3.2 Type-S"
+            "2.2",
+            "2.3",
+            "3.2"
         ],
         "ILX": [
-            "Premium Package",
-            "Technology Package",
+            "Hybrid w/Technology Package",
             "Base",
-            "Hybrid w/Technology Package"
+            "Premium Package",
+            "Technology Package"
         ],
         "Integra": [
+            "GS-R",
             "LS",
-            "RS",
-            "Special Edition",
             "GS",
-            "GS-R"
+            "RS",
+            "Special Edition"
         ],
         "Legend": [
-            "LS",
-            "L"
+            "L",
+            "LS"
         ],
         "MDX": [
             "SH-AWD",
-            "SH-AWD w/Advance and Entertainment Packages",
             "Base",
             "Touring",
-            "SH-AWD w/Technology Package",
-            "Advance Package",
             "Advance and Entertainment Packages",
-            "Technology Package",
+            "Advance Package",
+            "SH-AWD w/Advance and Entertainment Packages",
+            "SH-AWD w/Technology Package",
+            "SH-AWD w/Technology and Entertainment Packages",
             "Technology and Entertainment Packages",
-            "SH-AWD w/Technology and Entertainment Packages"
+            "Technology Package"
         ],
         "RDX": [
             "SH-AWD",
-            "Technology Package",
-            "Base"
+            "Base",
+            "Technology Package"
         ],
         "RL": [
-            "Base",
-            "3.5 Special Edition",
-            "3.5",
             "3.5 Premium",
-            "Technology Package"
+            "Base",
+            "3.5",
+            "Technology Package",
+            "3.5 Special Edition"
         ],
         "RLX": [
             "Advance Package",
-            "Technology Package",
-            "Base"
+            "Base",
+            "Technology Package"
         ],
         "RSX": [
             "Type-S",
             "Base"
         ],
         "TL": [
-            "SH-AWD",
-            "SH-AWD w/Advance Package",
-            "Base",
-            "SH-AWD w/Technology Package",
             "2.5",
-            "3.2",
-            "Type-S",
-            "3.2 Premium",
-            "2.5 Premium",
-            "Special Edition",
+            "SH-AWD",
+            "Base",
             "3.2 Type-S",
+            "2.5 Premium",
+            "3.2 Premium",
+            "Special Edition",
+            "Advance Package",
+            "SH-AWD w/Technology Package",
+            "3.2",
             "Technology Package",
-            "Advance Package"
+            "Type-S",
+            "SH-AWD w/Advance Package"
         ],
         "TLX": [
             "Base"
         ],
         "TSX": [
+            "Base",
             "Technology Package",
-            "Special Edition",
-            "Base"
+            "Special Edition"
         ],
         "TSX Sport Wagon": [
-            "Technology Package",
-            "Base"
+            "Base",
+            "Technology Package"
         ],
         "ZDX": [
             "Advance Package",
-            "Technology Package",
-            "Base"
+            "Base",
+            "Technology Package"
         ],
         "mdx": [
             "base"
@@ -104,133 +104,133 @@
             "Base"
         ],
         "V8 Vantage": [
-            "Base",
-            "N400 Roadster"
+            "N400 Roadster",
+            "Base"
         ]
     },
     "Audi": {
         "A3": [
             "2.0 TFSI Prestige quattro",
             "1.8 TFSI Premium",
-            "2.0T Premium Plus",
-            "2.0T",
-            "3.2 quattro",
             "2.0 TFSI Premium Plus quattro",
+            "2.0T quattro",
             "2.0 TDI Premium",
             "2.0T PZEV Premium",
-            "2.0T Premium",
-            "1.8 TFSI Premium Plus",
             "2.0T PZEV",
-            "2.0T quattro"
+            "1.8 TFSI Premium Plus",
+            "2.0T",
+            "2.0T Premium Plus",
+            "2.0T Premium",
+            "3.2 quattro"
         ],
         "A4": [
-            "2.0T Premium Plus quattro",
-            "3.0 Avant quattro",
-            "2.0T Premium quattro",
-            "2.0T Avant quattro",
-            "1.8T",
-            "2.0T Premium Avant quattro",
-            "3",
-            "2.0T quattro",
+            "1.8T quattro",
+            "1.8T Avant quattro",
             "3.2 Premium Plus quattro",
+            "1.8T",
+            "2.0T Avant Premium quattro",
+            "2.0T Avant quattro",
+            "2.0T Prestige quattro",
+            "2.0T Prestige",
+            "3.2",
+            "3.2 Avant quattro",
+            "2.0T Premium quattro",
+            "3.2 quattro",
+            "2.0T Premium Avant quattro",
+            "3.0 quattro",
+            "2.0T quattro",
+            "3",
             "2.8 Avant quattro",
             "2.8 quattro",
-            "2.0T Avant Premium quattro",
-            "3.2 quattro",
-            "2.0T Premium Plus",
+            "3.0 Avant quattro",
             "2.0T",
-            "3.2 Avant quattro",
-            "3.0 quattro",
-            "1.8T Avant quattro",
-            "3.2",
-            "1.8T quattro",
-            "2.0T Prestige",
+            "2.0T Premium Plus",
             "2.0T Premium",
-            "2.0T Prestige quattro"
+            "2.0T Premium Plus quattro"
         ],
         "A5": [
-            "2.0T Premium Plus quattro",
-            "2.0T Premium quattro",
-            "quattro",
             "2.0T Premium",
+            "quattro",
+            "3.2 Premium Plus quattro",
+            "2.0T Premium quattro",
             "2.0T Prestige quattro",
-            "3.2 Premium Plus quattro"
+            "2.0T Premium Plus quattro"
         ],
         "A6": [
-            "4.2 quattro",
-            "3.0 Avant quattro",
-            "2.0T Premium Plus quattro",
-            "TDI Prestige quattro",
-            "2.0T Premium quattro",
-            "TDI Premium Plus quattro",
-            "3.0T Premium Plus quattro",
-            "3",
-            "2.8 Avant quattro",
-            "2.8",
-            "3.0T Prestige quattro",
-            "2.8 quattro",
-            "3.2 quattro",
-            "2.0T Premium Plus",
-            "3.2 Avant quattro",
             "3.2",
-            "3.0T quattro",
-            "3.0T Premium quattro",
-            "3.0 quattro",
+            "3.2 Avant quattro",
+            "2.0T Premium quattro",
+            "3.2 quattro",
+            "TDI Prestige quattro",
             "3.2 Premium",
-            "2.7T S-Line quattro",
+            "3.0 quattro",
+            "3.0T Premium Plus quattro",
+            "3.0T quattro",
             "2.7T quattro",
-            "2.0T Premium"
+            "3",
+            "TDI Premium Plus quattro",
+            "2.8",
+            "4.2 quattro",
+            "3.0T Premium quattro",
+            "2.8 Avant quattro",
+            "2.7T S-Line quattro",
+            "2.8 quattro",
+            "3.0T Prestige quattro",
+            "3.0 Avant quattro",
+            "2.0T Premium Plus",
+            "2.0T Premium",
+            "2.0T Premium Plus quattro"
         ],
         "A7": [
-            "Premium Plus quattro",
             "TDI Prestige quattro",
+            "Premium Plus quattro",
             "Premium quattro",
             "Prestige quattro"
         ],
         "A8": [
+            "L quattro",
+            "L 3.0T quattro",
+            "4.0T quattro",
+            "3.0T quattro",
             "4.2 quattro",
             "L 4.2 quattro",
-            "quattro",
-            "4.0T quattro",
-            "L quattro",
-            "3.0T quattro",
-            "L W12 6.3 quattro",
-            "L 3.0T quattro",
             "L 4.0T quattro",
+            "quattro",
+            "L W12 6.3 quattro",
             "L TDI quattro"
         ],
         "Q3": [
             "Premium Plus"
         ],
         "Q5": [
-            "2.0T Premium Plus quattro",
-            "2.0T Premium quattro",
-            "3.0T Prestige quattro",
+            "3.2 Premium Plus quattro",
+            "3.0T Premium Plus quattro",
             "TDI Premium Plus quattro",
             "2.0T Prestige quattro",
-            "3.0T Premium Plus quattro",
             "3.2 Premium quattro",
-            "3.2 Premium Plus quattro"
+            "3.0T Prestige quattro",
+            "2.0T Premium quattro",
+            "2.0T Premium Plus quattro"
         ],
         "Q7": [
-            "4.2 quattro",
             "TDI Prestige quattro",
-            "4.2 Premium quattro",
-            "TDI Premium Plus quattro",
-            "3.6 quattro",
-            "3.6 Premium quattro",
-            "3.0T Premium quattro",
             "3.0T Premium Plus quattro",
-            "4.2 Prestige quattro",
+            "3.6 Premium quattro",
+            "TDI Premium Plus quattro",
+            "4.2 Premium quattro",
+            "3.0T Premium quattro",
+            "4.2 quattro",
+            "3.6 quattro",
+            "3.0T S line Prestige quattro",
             "TDI Premium quattro",
-            "3.0T S line Prestige quattro"
+            "4.2 Prestige quattro"
         ],
         "R8": [
-            "4.2 quattro",
-            "quattro",
-            "5.2 quattro Spyder",
             "4.2 quattro Spyder",
-            "5.2 quattro"
+            "quattro",
+            "5.2 quattro",
+            "5.2 quattro Spyder",
+            "4.2 quattro"
         ],
         "RS 4": [
             "quattro"
@@ -245,21 +245,21 @@
             "Prestige quattro"
         ],
         "S4": [
-            "Premium Plus quattro",
-            "Avant quattro",
+            "Prestige quattro",
             "quattro",
-            "Prestige quattro"
+            "Avant quattro",
+            "Premium Plus quattro"
         ],
         "S5": [
-            "Premium Plus quattro",
-            "3.0T Premium Plus quattro",
+            "Prestige quattro",
             "quattro",
-            "Prestige quattro"
+            "Premium Plus quattro",
+            "3.0T Premium Plus quattro"
         ],
         "S6": [
+            "Avant quattro",
             "Prestige",
-            "quattro",
-            "Avant quattro"
+            "quattro"
         ],
         "S7": [
             "quattro",
@@ -273,29 +273,29 @@
             "3.0T Premium Plus quattro"
         ],
         "TT": [
-            "2.0T Premium Plus quattro",
-            "quattro",
             "Base",
-            "3.2 quattro",
-            "2.0T",
-            "180hp quattro",
-            "250hp quattro",
             "225hp quattro",
             "2.0T quattro",
-            "180hp"
+            "quattro",
+            "180hp",
+            "250hp quattro",
+            "180hp quattro",
+            "2.0T",
+            "2.0T Premium Plus quattro",
+            "3.2 quattro"
         ],
         "TT RS": [
             "quattro"
         ],
         "TTS": [
-            "Premium Plus quattro",
             "2.0T quattro",
-            "quattro"
+            "quattro",
+            "Premium Plus quattro"
         ],
         "allroad": [
-            "Premium Plus quattro",
+            "Prestige quattro",
             "Premium quattro",
-            "Prestige quattro"
+            "Premium Plus quattro"
         ],
         "allroad quattro": [
             "Base"
@@ -304,117 +304,117 @@
     "BMW": {
         "1 Series": [
             "128i SULEV",
-            "135is",
+            "135i",
             "128i",
-            "135i"
+            "135is"
         ],
         "2 Series": [
             "M235i",
             "228i"
         ],
         "3 Series": [
-            "325is",
-            "328is",
-            "335is",
-            "335i xDrive",
-            "335xi",
-            "318ti",
-            "320i",
-            "328i xDrive",
             "330i",
+            "325xi",
+            "320i xDrive",
+            "328is",
+            "330xi",
+            "330Ci",
+            "318i",
+            "318ti",
             "328d",
             "335d",
-            "ActiveHybrid 3",
-            "328xi",
-            "330xi",
-            "323i",
-            "330Ci",
-            "323is",
-            "328d xDrive",
-            "318i",
-            "328i xDrive SULEV",
+            "328i xDrive",
+            "335is",
             "323Ci",
-            "335i",
             "328i",
+            "ActiveHybrid 3",
             "323iT",
-            "325xi",
-            "325Ci",
-            "320i xDrive",
             "325i",
+            "328i xDrive SULEV",
+            "328i SULEV",
+            "335i",
+            "335xi",
+            "320i",
             "328Ci",
-            "328i SULEV"
+            "328xi",
+            "323i",
+            "325is",
+            "335i xDrive",
+            "328d xDrive",
+            "323is",
+            "325Ci"
         ],
         "3 Series Gran Turismo": [
-            "328i xDrive SULEV",
             "328i xDrive",
-            "335i xDrive"
+            "335i xDrive",
+            "328i xDrive SULEV"
         ],
         "4 Series": [
+            "428i xDrive",
             "428i xDrive SULEV",
-            "435i xDrive",
             "428i SULEV",
+            "435i xDrive",
             "435i",
-            "428i",
-            "428i xDrive"
+            "428i"
         ],
         "4 Series Gran Coupe": [
+            "428i xDrive",
             "435i",
             "428i xDrive SULEV",
-            "428i",
-            "428i xDrive"
+            "428i"
         ],
         "5 Series": [
-            "525i",
-            "540i",
-            "525xi",
             "535i",
-            "528xi",
-            "528i",
-            "535d",
-            "545i",
-            "530xi",
-            "ActiveHybrid 5",
             "530i",
-            "535i xDrive",
-            "550i xDrive",
-            "535d xDrive",
-            "535xi",
+            "528i",
             "528i xDrive",
-            "550i"
+            "525i",
+            "535i xDrive",
+            "530xi",
+            "535xi",
+            "550i xDrive",
+            "525xi",
+            "540i",
+            "545i",
+            "535d",
+            "550i",
+            "535d xDrive",
+            "528xi",
+            "ActiveHybrid 5"
         ],
         "5 Series Gran Turismo": [
-            "535i xDrive",
-            "535i",
             "550i",
-            "550i xDrive"
+            "550i xDrive",
+            "535i",
+            "535i xDrive"
         ],
         "6 Series": [
+            "640i",
             "640i xDrive",
             "650i",
             "645Ci",
-            "650i xDrive",
-            "640i"
+            "650i xDrive"
         ],
         "6 Series Gran Coupe": [
-            "640i xDrive",
             "650i",
-            "650i xDrive",
-            "640i"
+            "640i xDrive",
+            "640i",
+            "650i xDrive"
         ],
         "7 Series": [
-            "750i xDrive",
-            "745Li",
-            "740Ld xDrive",
-            "740iL",
-            "750i",
-            "750Li xDrive",
-            "740Li xDrive",
-            "760Li",
-            "750iL",
             "740i",
-            "750Li",
             "740Li",
-            "745i"
+            "750i",
+            "740iL",
+            "750Li xDrive",
+            "750iL",
+            "740Li xDrive",
+            "740Ld xDrive",
+            "745Li",
+            "745i",
+            "750i xDrive",
+            "760Li",
+            "750Li"
         ],
         "8 Series": [
             "850i"
@@ -424,8 +424,8 @@
         ],
         "ActiveHybrid 7": [
             "750i",
-            "750Li",
-            "740Li"
+            "740Li",
+            "750Li"
         ],
         "ActiveHybrid X6": [
             "Base"
@@ -449,42 +449,42 @@
             "Base"
         ],
         "X1": [
-            "sDrive28i",
             "xDrive28i",
-            "xDrive35i"
+            "xDrive35i",
+            "sDrive28i"
         ],
         "X3": [
             "xDrive30i",
+            "3.0si",
+            "3.0i",
             "2.5i",
             "xDrive35i",
-            "xDrive28i",
-            "3.0si",
-            "3.0i"
+            "xDrive28i"
         ],
         "X4": [
             "xDrive35i"
         ],
         "X5": [
-            "xDrive30i",
             "4.4i",
+            "xDrive35i",
+            "4.6is",
+            "xDrive50i",
+            "4.8is",
+            "xDrive30i",
+            "3.0si",
+            "4.8i",
+            "sDrive35i",
             "3.0i",
             "xDrive35d",
-            "4.8i",
-            "xDrive35i",
-            "sDrive35i",
-            "4.8is",
-            "4.6is",
             "xDrive35i Premium",
-            "xDrive48i",
-            "3.0si",
-            "xDrive50i"
+            "xDrive48i"
         ],
         "X5 M": [
             "Base"
         ],
         "X6": [
-            "xDrive50i",
-            "xDrive35i"
+            "xDrive35i",
+            "xDrive50i"
         ],
         "X6 M": [
             "Base"
@@ -492,18 +492,18 @@
         "Z3": [
             "2.3",
             "2.5i",
-            "1.9",
             "3.0i",
-            "2.8"
+            "2.8",
+            "1.9"
         ],
         "Z4": [
-            "sDrive28i",
-            "sDrive35is",
-            "2.5i",
-            "sDrive30i",
             "3.0si",
-            "3.0i",
-            "sDrive35i"
+            "sDrive35is",
+            "sDrive28i",
+            "sDrive30i",
+            "2.5i",
+            "sDrive35i",
+            "3.0i"
         ],
         "Z4 M": [
             "Base"
@@ -539,50 +539,50 @@
     },
     "Buick": {
         "Century": [
-            "Special",
-            "Limited",
-            "Base",
             "Standard",
-            "Custom"
+            "Base",
+            "Custom",
+            "Special",
+            "Limited"
         ],
         "Enclave": [
-            "Leather Group",
             "Base",
-            "Premium Group",
             "CXL1",
             "Convenience Group",
-            "CX",
+            "Leather Group",
             "CXL",
-            "CXL2"
+            "CXL2",
+            "Premium Group",
+            "CX"
         ],
         "Encore": [
-            "Convenience",
-            "Leather",
             "Premium",
-            "Base"
+            "Base",
+            "Convenience",
+            "Leather"
         ],
         "LaCrosse": [
-            "Leather Group",
-            "Premium II Group",
-            "Premium I Group",
-            "Touring Group",
             "Base",
-            "Premium III Group",
             "Convenience Group",
-            "CX",
-            "Super",
+            "Leather Group",
             "CXS",
-            "CXL"
+            "Premium II Group",
+            "CXL",
+            "Premium III Group",
+            "Super",
+            "CX",
+            "Touring Group",
+            "Premium I Group"
         ],
         "LeSabre": [
             "Custom",
             "Limited"
         ],
         "Lucerne": [
-            "CXL",
+            "CX",
             "CXL Premium",
             "CXS",
-            "CX",
+            "CXL",
             "Super"
         ],
         "Park Avenue": [
@@ -594,23 +594,23 @@
             "CXL"
         ],
         "Regal": [
-            "Olympic Gold",
-            "LS",
-            "GS",
-            "Premium 2 Turbo",
             "Base",
-            "Premium 2",
-            "Custom",
-            "Gran Sport",
             "Premium 1 Turbo",
-            "Premium 1",
-            "CXL Turbo",
+            "Premium I",
+            "Premium 2",
+            "Gran Sport",
             "CXL",
-            "Premium I"
+            "GS",
+            "Olympic Gold",
+            "Premium 2 Turbo",
+            "LS",
+            "Premium 1",
+            "Custom",
+            "CXL Turbo"
         ],
         "Rendezvous": [
-            "CXL",
-            "CX"
+            "CX",
+            "CXL"
         ],
         "Riviera": [
             "Base"
@@ -619,42 +619,42 @@
             "Base"
         ],
         "Terraza": [
-            "CXL",
-            "CX"
+            "CX",
+            "CXL"
         ],
         "Verano": [
-            "Leather Group",
             "Base",
             "Premium Group",
+            "Convenience Group 2",
             "Convenience Group",
-            "Convenience Group 2"
+            "Leather Group"
         ]
     },
     "Cadillac": {
         "ATS": [
-            "Performance",
-            "Luxury",
             "Premium",
-            "Standard"
+            "Standard",
+            "Performance",
+            "Luxury"
         ],
         "CTS": [
-            "Performance",
-            "Luxury",
-            "Vsport Premium",
             "Premium",
+            "Standard",
             "Base",
-            "Standard"
+            "Luxury",
+            "Performance",
+            "Vsport Premium"
         ],
         "CTS Coupe": [
-            "Performance",
             "Premium",
+            "Performance",
             "Base"
         ],
         "CTS Wagon": [
+            "Premium",
             "Performance",
             "Sport",
-            "Luxury",
-            "Premium"
+            "Luxury"
         ],
         "CTS-V": [
             "Base"
@@ -669,322 +669,322 @@
             "Base"
         ],
         "DTS": [
-            "Platinum",
-            "Luxury III",
-            "Luxury",
-            "Performance",
             "Premium",
             "Base",
-            "Luxury II"
+            "Luxury",
+            "Luxury II",
+            "Luxury III",
+            "Platinum",
+            "Performance"
         ],
         "DeVille": [
-            "DTS",
-            "DHS",
             "Concours",
+            "DTS",
             "Base",
-            "D'elegance"
+            "D'elegance",
+            "DHS"
         ],
         "ELR": [
             "Base"
         ],
         "Eldorado": [
-            "Base",
+            "ESC",
             "ETC",
-            "Touring",
-            "ESC"
+            "Base",
+            "Touring"
         ],
         "Escalade": [
-            "Luxury",
-            "Platinum Edition",
             "Premium",
-            "Base"
+            "Base",
+            "Luxury",
+            "Platinum Edition"
         ],
         "Escalade ESV": [
-            "Luxury",
             "Platinum Edition",
-            "Premium",
-            "Base"
+            "Luxury",
+            "Base",
+            "Premium"
         ],
         "Escalade EXT": [
-            "Luxury",
             "Premium",
-            "Base"
+            "Base",
+            "Luxury"
         ],
         "Escalade Hybrid": [
             "Platinum Edition",
             "Base"
         ],
         "SRX": [
-            "Turbo Premium",
+            "Premium",
             "V6",
-            "Luxury",
-            "Performance",
-            "V8",
             "Base",
-            "Premium"
+            "Luxury",
+            "Turbo Premium",
+            "Performance",
+            "V8"
         ],
         "STS": [
-            "V6",
-            "V8",
-            "V6 Luxury Sport",
+            "V6 Premium",
             "V8 Luxury",
-            "V6 Luxury",
-            "V6 Premium"
+            "V8",
+            "V6",
+            "V6 Luxury Sport",
+            "V6 Luxury"
         ],
         "STS-V": [
             "Base"
         ],
         "Seville": [
             "STS",
-            "SLS",
-            "Base"
+            "Base",
+            "SLS"
         ],
         "XLR": [
             "Base"
         ],
         "XTS": [
-            "Platinum",
-            "Vsport Platinum",
-            "Luxury",
-            "Vsport Premium",
             "Premium",
-            "Base"
+            "Base",
+            "Luxury",
+            "Platinum",
+            "Vsport Premium",
+            "Vsport Platinum"
         ]
     },
     "Chevrolet": {
         "Astro": [
-            "LS",
-            "Base"
+            "Base",
+            "LS"
         ],
         "Astro Cargo": [
             "Base"
         ],
         "Avalanche": [
+            "LTZ",
+            "LT",
             "1500 LS",
+            "LT1",
             "LS",
             "2500",
-            "LT",
-            "LTZ",
-            "LT1",
             "1500"
         ],
         "Aveo": [
-            "2LT",
-            "LS",
+            "Aveo5 1LT",
+            "Aveo5 2LT",
+            "Base",
+            "Special Value",
             "1LT",
             "LT",
             "Aveo5 Special Value",
-            "Base",
-            "Aveo5 2LT",
-            "Aveo5 1LT",
-            "Special Value",
-            "Aveo5 LS"
+            "LS",
+            "Aveo5 LS",
+            "2LT"
         ],
         "Black Diamond Avalanche": [
             "LTZ",
-            "LS",
-            "LT"
+            "LT",
+            "LS"
         ],
         "Blazer": [
-            "LS",
-            "Trailblazer",
-            "Xtreme",
+            "TrailBlazer",
             "LT",
             "Base",
-            "TrailBlazer"
+            "Trailblazer",
+            "LS",
+            "Xtreme"
         ],
         "C/K 1500 Series": [
             "454SS",
-            "Cheyenne",
             "Silverado",
+            "Cheyenne",
             "Base"
         ],
         "C/K 2500 Series": [
             "Silverado"
         ],
         "C/K 3500 Series": [
-            "LS",
-            "Base"
+            "Base",
+            "LS"
         ],
         "Camaro": [
-            "2LT",
-            "LS",
-            "SS",
+            "Base",
+            "ZL1",
             "1SS",
             "1LT",
-            "LT",
-            "Base",
             "Z28",
-            "ZL1",
             "Z/28",
-            "2SS"
+            "LT",
+            "2SS",
+            "LS",
+            "SS",
+            "2LT"
         ],
         "Caprice": [
             "Classic",
             "Base"
         ],
         "Captiva Sport": [
-            "LTZ Fleet",
-            "LT Fleet",
-            "LS Fleet",
-            "2LS Fleet",
             "1LT Fleet",
+            "2LS Fleet",
+            "LS Fleet",
+            "LT Fleet",
+            "LTZ Fleet",
             "1LS Fleet"
         ],
         "Cavalier": [
-            "LS Sport",
-            "LS",
             "Z24",
-            "Base"
+            "LS Sport",
+            "Base",
+            "LS"
         ],
         "Classic": [
             "Fleet"
         ],
         "Cobalt": [
+            "LTZ",
+            "LT",
+            "Base",
+            "XFE",
             "LS",
             "SS",
-            "Base",
-            "LT",
-            "LTZ",
-            "Sport",
-            "XFE"
+            "Sport"
         ],
         "Colorado": [
-            "2LT",
+            "ZQ8",
+            "Z85 LS Base",
+            "Base",
+            "Z71 LS",
+            "LT1",
+            "Z85",
             "Work Truck",
-            "LS",
-            "LT2",
             "1LT",
             "LT",
-            "Z85",
-            "Base",
+            "LS",
+            "LT2",
+            "ZQ8 LS",
             "Z71",
-            "LT1",
-            "ZQ8",
-            "Z71 LS",
-            "Z85 LS Base",
-            "ZQ8 LS"
+            "2LT"
         ],
         "Corsica": [
             "Base"
         ],
         "Corvette": [
-            "Hardtop",
-            "Base",
-            "Grand Sport",
-            "Stingray",
+            "Z06 Competition Sport Spec Ed",
             "Stingray Z51",
-            "Z06",
-            "427",
+            "Base",
+            "Stingray",
+            "Hardtop",
             "GS",
             "ZR1",
-            "Z06 Competition Sport Spec Ed"
+            "427",
+            "Grand Sport",
+            "Z06"
         ],
         "Corvette Stingray": [
             "Base",
             "Z51"
         ],
         "Cruze": [
+            "LTZ",
             "2LT",
             "LS",
             "LT Fleet",
-            "1LT",
             "Eco",
-            "LTZ",
-            "Diesel"
+            "Diesel",
+            "1LT"
         ],
         "Equinox": [
+            "LTZ",
+            "LT",
+            "LT1",
             "LS",
             "LT2",
-            "LT",
-            "LTZ",
-            "Sport",
-            "LT1"
+            "Sport"
         ],
         "Express": [
-            "LS 3500",
-            "LT 3500",
             "3500",
+            "LT 3500",
+            "LS 3500",
             "LS 1500",
             "LS 2500",
             "1500"
         ],
         "Express Cargo": [
-            "G3500",
-            "2500",
-            "G1500",
             "3500",
-            "1500"
+            "G1500",
+            "2500",
+            "1500",
+            "G3500"
         ],
         "HHR": [
-            "LS",
-            "SS",
-            "LT",
             "Panel LS",
+            "LT",
+            "SS",
+            "LS",
             "Panel LT"
         ],
         "Impala": [
-            "LS",
-            "SS",
+            "LTZ",
+            "LT Eco",
+            "Base",
+            "50th Anniversary",
             "LT Fleet",
             "LT2",
             "LT",
-            "Base",
-            "LTZ",
-            "50th Anniversary",
-            "LS Fleet",
-            "LT Eco"
-        ],
-        "Impala Limited": [
-            "LS Fleet",
-            "LTZ Fleet",
-            "LT Fleet"
-        ],
-        "Lumina": [
-            "LS",
-            "Base"
-        ],
-        "Malibu": [
             "LS",
             "SS",
+            "LS Fleet"
+        ],
+        "Impala Limited": [
+            "LT Fleet",
+            "LTZ Fleet",
+            "LS Fleet"
+        ],
+        "Lumina": [
+            "Base",
+            "LS"
+        ],
+        "Malibu": [
+            "LTZ",
+            "Fleet",
+            "LT1",
+            "Base",
             "LT2",
             "LT",
-            "Base",
-            "LTZ",
-            "LT1",
-            "Fleet",
-            "LS Fleet",
-            "Eco"
+            "LS",
+            "SS",
+            "Eco",
+            "LS Fleet"
         ],
         "Malibu Classic": [
-            "LS Fleet",
-            "LT"
+            "LT",
+            "LS Fleet"
         ],
         "Malibu Hybrid": [
             "Base"
         ],
         "Malibu Maxx": [
-            "LS",
-            "SS",
-            "LS Fleet",
-            "LT",
             "LTZ",
-            "Fleet"
+            "Fleet",
+            "LT",
+            "SS",
+            "LS",
+            "LS Fleet"
         ],
         "Monte Carlo": [
-            "LS",
-            "SS",
-            "LT",
             "LTZ",
-            "Z34"
+            "LT",
+            "LS",
+            "Z34",
+            "SS"
         ],
         "Prizm": [
-            "Base",
-            "LSi"
+            "LSi",
+            "Base"
         ],
         "S-10": [
-            "LS",
-            "Base"
+            "Base",
+            "LS"
         ],
         "S-10 Blazer": [
             "Base"
@@ -996,113 +996,113 @@
             "LS"
         ],
         "Silverado 1500": [
-            "LS2",
-            "LS",
+            "LTZ",
+            "Base",
+            "LT1",
             "Work Truck",
+            "High Country",
+            "LT3",
+            "LT",
+            "Z71 LT",
+            "XFE",
+            "LS",
             "LT2",
             "SS",
-            "LT",
-            "Base",
-            "LTZ",
             "Z71",
-            "LT1",
-            "XFE",
-            "Z71 LT",
-            "LT3",
-            "High Country"
+            "LS2"
         ],
         "Silverado 1500 Classic": [
-            "LS",
             "Work Truck",
+            "LS2",
             "LT3",
-            "LS2"
+            "LS"
         ],
         "Silverado 1500 Hybrid": [
             "Base"
         ],
         "Silverado 1500HD": [
+            "LT",
             "LS",
-            "LT2",
-            "LT"
+            "LT2"
         ],
         "Silverado 2500": [
-            "LS",
-            "HD",
-            "Base",
             "LT",
-            "HD LS"
+            "Base",
+            "HD LS",
+            "LS",
+            "HD"
         ],
         "Silverado 2500HD": [
-            "Work Truck",
-            "LS",
-            "LT2",
-            "Base",
-            "LT",
             "LTZ",
+            "Base",
             "LT1",
-            "LT3"
-        ],
-        "Silverado 2500HD Classic": [
-            "LS",
             "Work Truck",
             "LT3",
-            "LT1"
+            "LT",
+            "LS",
+            "LT2"
+        ],
+        "Silverado 2500HD Classic": [
+            "Work Truck",
+            "LT1",
+            "LT3",
+            "LS"
         ],
         "Silverado 3500": [
-            "LS",
-            "Work Truck",
-            "Base",
             "LT",
-            "LT1"
+            "LT1",
+            "Base",
+            "LS",
+            "Work Truck"
         ],
         "Silverado 3500 Classic": [
             "LT1"
         ],
         "Silverado 3500HD": [
-            "Work Truck",
-            "LT2",
-            "LT",
             "LTZ",
-            "LT1"
+            "LT",
+            "LT1",
+            "LT2",
+            "Work Truck"
         ],
         "Sonic": [
             "LTZ",
+            "LT",
             "LS",
-            "RS",
-            "LT"
+            "RS"
         ],
         "Spark": [
-            "2LT",
+            "1LT",
             "LS",
-            "1LT"
+            "2LT"
         ],
         "Spark EV": [
             "2LT"
         ],
         "Suburban": [
-            "LS",
-            "1500 LTZ",
-            "1500 LT",
-            "LT",
-            "2500",
             "LTZ",
-            "LTZ 1500",
+            "LT 1500",
+            "1500 LT",
             "LS 1500",
-            "1500 LT1",
             "1500",
             "2500 LT",
-            "1500 LS",
-            "LT 1500",
             "LT 2500",
-            "2500 LS"
+            "LT",
+            "1500 LS",
+            "LTZ 1500",
+            "LS",
+            "2500",
+            "2500 LS",
+            "1500 LTZ",
+            "1500 LT1"
         ],
         "Tahoe": [
-            "LS",
-            "LT2",
-            "Base",
-            "LT",
             "LTZ",
             "Fleet",
+            "LT",
+            "Base",
+            "LS",
+            "LT2",
             "LT2 XFE"
         ],
         "Tahoe Hybrid": [
@@ -1113,44 +1113,44 @@
             "Limited"
         ],
         "Tracker": [
-            "Base",
+            "LT",
             "ZR2",
-            "LT"
+            "Base"
         ],
         "TrailBlazer": [
-            "LS",
-            "SS",
+            "Fleet",
+            "LTZ",
+            "EXT LT",
+            "LT3",
             "LT2",
             "LT",
-            "LTZ",
-            "Fleet",
-            "EXT LT",
-            "LT3"
+            "SS",
+            "LS"
         ],
         "TrailBlazer EXT": [
-            "LS",
-            "LT"
+            "LT",
+            "LS"
         ],
         "Traverse": [
-            "LS",
-            "LT2",
-            "LT",
             "LTZ",
-            "LT1"
+            "LT",
+            "LT1",
+            "LS",
+            "LT2"
         ],
         "Uplander": [
+            "LT",
             "Cargo",
             "Base",
-            "LS",
-            "LT"
+            "LS"
         ],
         "Venture": [
-            "LS",
-            "LT Entertainer",
             "Warner Bros.",
-            "LT",
             "Plus",
             "Base",
+            "LT Entertainer",
+            "LT",
+            "LS",
             "Warner Brothers",
             "Value"
         ],
@@ -1163,102 +1163,102 @@
     },
     "Chrysler": {
         "200": [
-            "LX",
-            "Limited",
-            "C",
             "S",
-            "Touring"
+            "LX",
+            "C",
+            "Touring",
+            "Limited"
         ],
         "300": [
-            "S V6",
-            "Touring Plus",
-            "C John Varvatos Luxury",
             "Limited Fleet",
-            "SRT8",
             "SRT-8",
-            "C Luxury Series",
+            "C",
             "S V8",
             "S",
-            "Touring",
-            "Limited",
-            "Base",
-            "LX",
+            "C John Varvatos",
             "C HEMI",
-            "C",
-            "C John Varvatos"
+            "Limited",
+            "C John Varvatos Luxury",
+            "Base",
+            "SRT8",
+            "Touring Plus",
+            "Touring",
+            "S V6",
+            "LX",
+            "C Luxury Series"
         ],
         "300M": [
-            "Special",
-            "Base"
+            "Base",
+            "Special"
         ],
         "Aspen": [
-            "Limited",
-            "Limited HEV"
+            "Limited HEV",
+            "Limited"
         ],
         "Cirrus": [
             "LXi"
         ],
         "Concorde": [
-            "LX",
-            "Limited",
+            "LXi",
             "Base",
-            "LXi"
+            "LX",
+            "Limited"
         ],
         "Crossfire": [
-            "Limited",
-            "Base"
+            "Base",
+            "Limited"
         ],
         "LHS": [
             "Base"
         ],
         "PT Cruiser": [
             "GT",
-            "Touring Edition",
-            "Limited",
             "Base",
             "Limited Edition",
+            "Touring Edition",
             "Classic",
-            "Touring"
+            "Touring",
+            "Limited"
         ],
         "Pacifica": [
-            "Base",
             "LX",
-            "Limited",
-            "Touring"
+            "Base",
+            "Touring",
+            "Limited"
         ],
         "Prowler": [
             "Base"
         ],
         "Sebring": [
-            "TSi",
-            "Limited",
+            "JX",
             "Base",
-            "JXi",
-            "GTC",
-            "LX",
-            "Touring Fleet",
-            "LXi",
             "Touring",
-            "JX"
+            "JXi",
+            "Touring Fleet",
+            "GTC",
+            "TSi",
+            "LX",
+            "LXi",
+            "Limited"
         ],
         "Town and Country": [
-            "Limited",
             "Base",
-            "Touring Plus",
-            "EX",
             "Limited Fleet",
             "LX Family Value",
-            "LX",
+            "Touring Plus",
+            "EX",
             "Touring-L",
-            "LXi",
-            "Family Value",
+            "Touring",
+            "LX",
             "S",
-            "Touring"
+            "Family Value",
+            "LXi",
+            "Limited"
         ],
         "Voyager": [
-            "LX",
             "LX Value",
-            "Base"
+            "Base",
+            "LX"
         ]
     },
     "Daewoo": {
@@ -1269,178 +1269,178 @@
     "Dodge": {
         "Avenger": [
             "SXT Plus",
-            "Express",
             "SE",
+            "SXT",
+            "Express",
             "Mainstreet",
             "Lux",
-            "R/T",
-            "SXT"
+            "R/T"
         ],
         "Caliber": [
-            "SE Fleet",
-            "Heat",
-            "Express",
-            "Base",
-            "R/T",
-            "SXT",
             "SXT Plus",
-            "SRT4",
             "SE",
-            "Uptown",
+            "Base",
+            "SXT",
+            "Heat",
+            "SXT Fleet",
             "Mainstreet",
-            "Rush",
-            "SXT Fleet"
+            "R/T",
+            "SE Fleet",
+            "SRT4",
+            "Express",
+            "Uptown",
+            "Rush"
         ],
         "Caravan": [
-            "C/V",
             "SE",
+            "SXT",
+            "C/V",
             "Sport",
-            "eC",
-            "SXT"
+            "eC"
         ],
         "Challenger": [
+            "SXT Plus",
+            "SE",
             "Base",
-            "SRT8 Core",
-            "R/T Scat Pack",
-            "R/T",
             "SXT",
             "SRT8",
-            "SXT Plus",
             "R/T Plus",
-            "SRT8 392",
-            "SE"
+            "R/T",
+            "R/T Scat Pack",
+            "SRT8 Core",
+            "SRT8 392"
         ],
         "Charger": [
-            "RT",
-            "Base",
-            "R/T",
-            "Rallye",
-            "3.5L",
             "Fleet",
-            "SXT",
-            "SRT8",
-            "SRT8 Superbee",
-            "SRT-8",
             "SE",
+            "Base",
+            "SXT",
             "SXT Fleet",
-            "RT Fleet"
+            "SRT8",
+            "RT Fleet",
+            "R/T",
+            "SRT-8",
+            "RT",
+            "SRT8 Superbee",
+            "Rallye",
+            "3.5L"
         ],
         "Dakota": [
             "Laramie",
-            "Base",
-            "ST",
-            "SXT",
-            "Sport",
             "BigHorn",
-            "SLT"
+            "Base",
+            "SXT",
+            "SLT",
+            "ST",
+            "Sport"
         ],
         "Dart": [
+            "SE",
+            "SXT",
             "GT",
             "Aero",
-            "Limited",
-            "SE",
-            "SXT"
+            "Limited"
         ],
         "Durango": [
-            "SLT Plus",
-            "Limited",
-            "Heat",
-            "Express",
-            "ST",
-            "Sport",
-            "R/T",
-            "SLT",
             "SXT",
+            "Heat",
+            "Citadel",
+            "Sport",
+            "ST",
+            "R/T",
+            "SLT Plus",
+            "Express",
             "Crew",
-            "Citadel"
+            "SLT",
+            "Limited"
         ],
         "Grand Caravan": [
-            "Hero",
-            "C/V",
-            "eL",
-            "Express",
-            "SE Plus",
-            "R/T",
-            "Sport",
-            "ES",
-            "SXT",
-            "American Value Package",
-            "Crew",
             "SE",
+            "American Value Package",
+            "SXT",
+            "eX",
             "Mainstreet",
+            "C/V",
+            "R/T",
+            "eL",
+            "Sport",
             "EX",
-            "eX"
+            "SE Plus",
+            "ES",
+            "Express",
+            "Crew",
+            "Hero"
         ],
         "Intrepid": [
-            "Base",
             "SE",
-            "R/T",
+            "Base",
+            "SXT",
             "ES",
-            "SXT"
+            "R/T"
         ],
         "Journey": [
-            "Lux",
-            "Limited",
-            "Express",
-            "R/T",
-            "SXT",
-            "Crossroad",
-            "American Value Package",
-            "Crew",
             "SE",
-            "Mainstreet"
+            "American Value Package",
+            "SXT",
+            "Mainstreet",
+            "Lux",
+            "R/T",
+            "Express",
+            "Crew",
+            "Crossroad",
+            "Limited"
         ],
         "Magnum": [
-            "RT",
-            "SRT-8",
-            "Base",
             "SE",
-            "SXT"
+            "Base",
+            "SXT",
+            "SRT-8",
+            "RT"
         ],
         "Neon": [
-            "Base",
-            "SRT-4",
             "Highline",
             "SE",
-            "R/T",
-            "SXT"
+            "SRT-4",
+            "Base",
+            "SXT",
+            "R/T"
         ],
         "Nitro": [
-            "SE Fleet",
-            "Heat",
-            "Detonator",
-            "SXT",
-            "SLT",
-            "Shock",
             "SE",
-            "SXT Fleet"
+            "SXT",
+            "Heat",
+            "SXT Fleet",
+            "SE Fleet",
+            "Detonator",
+            "Shock",
+            "SLT"
         ],
         "Ram Cargo": [
             "2500",
-            "1500",
-            "1500 Maxi"
+            "1500 Maxi",
+            "1500"
         ],
         "Ram Pickup 1500": [
-            "LT",
-            "ST",
-            "SRT-10",
             "SS/T",
-            "SLT",
             "Laramie",
+            "Laramie SLT",
+            "ST",
             "WS",
-            "Laramie SLT"
+            "LT",
+            "SRT-10",
+            "SLT"
         ],
         "Ram Pickup 2500": [
-            "SXT",
-            "Laramie",
-            "SLT",
-            "ST"
-        ],
-        "Ram Pickup 3500": [
-            "SXT",
             "Laramie",
             "ST",
+            "SXT",
             "SLT"
+        ],
+        "Ram Pickup 3500": [
+            "SLT",
+            "ST",
+            "SXT",
+            "Laramie"
         ],
         "Ram Van": [
             "1500"
@@ -1452,23 +1452,23 @@
             "2500 High Roof 140 WB"
         ],
         "Sprinter Cargo": [
+            "3500 High Roof 158 WB",
             "2500 118 WB",
             "2500 High Roof 158 WB",
-            "2500 144 WB",
+            "2500 SH Ceiling 140 WB",
+            "3500 170 WB",
+            "3500 High Roof 140 WB",
             "2500 High Roof 140 WB",
             "2500 140 WB",
-            "2500 SH Ceiling 140 WB",
-            "3500 High Roof 140 WB",
-            "3500 SH Ceiling 158 WB",
+            "2500 144 WB",
             "2500 High Ceiling 118 WB",
-            "3500 High Roof 158 WB",
-            "3500 170 WB",
-            "2500 170 WB"
+            "2500 170 WB",
+            "3500 SH Ceiling 158 WB"
         ],
         "Stratus": [
+            "ES",
             "SE",
             "R/T",
-            "ES",
             "SXT"
         ],
         "Viper": [
@@ -1477,21 +1477,21 @@
     },
     "FIAT": {
         "500": [
-            "Ribelle",
-            "Lounge",
-            "Sport",
             "Pop",
-            "C Abarth",
+            "Sport",
+            "Lounge",
+            "Abarth",
             "C Lounge",
             "t Turbo",
+            "Ribelle",
             "C Pop",
-            "Abarth"
+            "C Abarth"
         ],
         "500L": [
             "Trekking",
+            "Easy",
             "Pop",
-            "Lounge",
-            "Easy"
+            "Lounge"
         ],
         "500e": [
             "Base"
@@ -1529,15 +1529,15 @@
             "SEL"
         ],
         "Contour": [
-            "LX",
             "SE",
+            "LX",
             "SE Sport",
             "GL"
         ],
         "Crown Victoria": [
             "LX Fleet",
-            "LX",
-            "Base"
+            "Base",
+            "LX"
         ],
         "E-150": [
             "Econoline"
@@ -1549,266 +1549,266 @@
             "XLT Super Club Wagon"
         ],
         "E-Series Van": [
-            "E-150",
+            "E-350 Super Duty",
             "E-250",
-            "E-350 Super Duty"
+            "E-150"
         ],
         "E-Series Wagon": [
-            "E-150 XLT",
-            "E-350 Super Duty XLT",
             "E-150 XL",
-            "E-350 Super Duty XL"
+            "E-350 Super Duty XL",
+            "E-150 XLT",
+            "E-350 Super Duty XLT"
         ],
         "Econoline Cargo": [
-            "E-150",
+            "E-350 Super Duty",
             "E-250",
-            "E-350 Super Duty"
+            "E-150"
         ],
         "Econoline Wagon": [
-            "E-150 XLT",
-            "E-350 Super Duty XLT",
             "E-150 XL",
-            "E-350 Super Duty XL"
+            "E-350 Super Duty XL",
+            "E-150 XLT",
+            "E-350 Super Duty XLT"
         ],
         "Edge": [
-            "SE Fleet",
-            "Limited",
-            "SEL",
             "SEL Plus",
             "SE",
-            "Sport"
+            "SEL",
+            "SE Fleet",
+            "Sport",
+            "Limited"
         ],
         "Escape": [
-            "XLT",
-            "SEL",
-            "XLT Popular",
-            "XLS Popular",
+            "SE",
             "Titanium",
-            "XLS Choice",
-            "XLT Premium",
-            "S",
-            "XLS Value",
-            "Limited",
-            "HEV",
-            "Hybrid",
-            "XLT Sport",
-            "XLS",
-            "XLS Sport",
+            "XLT",
             "XLT Choice",
-            "SE"
+            "XLS Sport",
+            "XLT Popular",
+            "S",
+            "XLT Premium",
+            "Limited",
+            "SEL",
+            "Hybrid",
+            "XLS",
+            "XLT Sport",
+            "XLS Popular",
+            "XLS Value",
+            "XLS Choice",
+            "HEV"
         ],
         "Escape Hybrid": [
             "Base"
         ],
         "Escort": [
-            "LX",
-            "ZX2",
-            "Base",
-            "Premium Fleet",
             "SE",
-            "ZX2 Deluxe"
+            "Base",
+            "ZX2 Deluxe",
+            "LX",
+            "Premium Fleet",
+            "ZX2"
         ],
         "Excursion": [
-            "XLT",
-            "Limited",
+            "Eddie Bauer",
             "XLT Value",
-            "Eddie Bauer"
+            "XLT",
+            "Limited"
         ],
         "Expedition": [
-            "XLT",
-            "XLT Value",
-            "XLT Popular",
-            "Eddie Bauer",
-            "XLT NBX",
-            "XL",
-            "SSV Fleet",
-            "EL XLT",
-            "XLT Premium",
-            "EL Limited",
-            "XLT FX4",
-            "EL King Ranch",
-            "Limited",
             "King Ranch",
-            "XLT Sport",
-            "XLS",
+            "XLT",
+            "EL King Ranch",
+            "XLT FX4",
             "EL XL",
-            "EL SSV Fleet"
+            "XLT Popular",
+            "EL XLT",
+            "EL Limited",
+            "XLT Premium",
+            "Limited",
+            "EL SSV Fleet",
+            "XLS",
+            "XLT Value",
+            "XL",
+            "XLT Sport",
+            "SSV Fleet",
+            "Eddie Bauer",
+            "XLT NBX"
         ],
         "Expedition EL": [
-            "XLT",
-            "Limited",
+            "Eddie Bauer",
             "King Ranch",
-            "Eddie Bauer"
+            "XLT",
+            "Limited"
         ],
         "Explorer": [
-            "XLT",
-            "Limited",
-            "Eddie Bauer",
             "Base",
+            "XLT",
+            "XLS",
+            "XLT Sport",
             "Sport",
             "XL",
-            "XLT Sport",
-            "XLS",
             "XLS Sport",
-            "NBX"
+            "NBX",
+            "Eddie Bauer",
+            "Limited"
         ],
         "Explorer Sport": [
-            "XLT",
             "XLS",
             "Choice",
-            "Base"
+            "Base",
+            "XLT"
         ],
         "Explorer Sport Trac": [
-            "XLT",
-            "Limited",
-            "Base",
-            "XLS",
             "Premium",
             "Choice",
             "Adrenalin",
-            "Value"
+            "Base",
+            "XLT",
+            "XLS",
+            "Value",
+            "Limited"
         ],
         "F-150": [
-            "XLT",
-            "Lariat",
-            "XL",
-            "Lariat Limited",
-            "Platinum",
-            "60th Anniversary",
-            "STX",
-            "Limited",
-            "King Ranch",
-            "Base",
-            "Harley-Davidson",
             "SVT Raptor",
+            "King Ranch",
+            "XLT",
+            "FX2",
+            "Lariat",
+            "STX",
+            "Platinum",
             "Work",
-            "FX4",
             "SVT Lightning",
-            "FX2"
+            "Lariat Limited",
+            "Limited",
+            "Harley-Davidson",
+            "Base",
+            "60th Anniversary",
+            "XL",
+            "FX4"
         ],
         "F-150 Heritage": [
-            "XLT",
-            "XL"
+            "XL",
+            "XLT"
         ],
         "F-150 SVT Lightning": [
             "Base"
         ],
         "F-250 Super Duty": [
-            "XLT",
-            "Platinum",
             "King Ranch",
-            "Lariat",
             "FX4",
+            "XLT",
+            "Lariat",
+            "Platinum",
             "XL"
         ],
         "F-350 Super Duty": [
-            "XLT",
-            "Platinum",
             "King Ranch",
-            "Lariat",
             "FX4",
+            "XLT",
+            "Lariat",
+            "Platinum",
             "XL"
         ],
         "F-450 Super Duty": [
-            "XLT",
+            "Lariat",
             "XL",
-            "Lariat"
+            "XLT"
         ],
         "Fiesta": [
-            "SEL",
-            "SES",
-            "ST",
             "SE",
+            "SEL",
+            "Titanium",
             "S",
-            "Titanium"
+            "SES",
+            "ST"
         ],
         "Five Hundred": [
             "SE",
-            "Limited",
-            "SEL"
+            "SEL",
+            "Limited"
         ],
         "Flex": [
+            "Titanium",
             "SE",
-            "Limited",
             "SEL",
-            "Titanium"
+            "Limited"
         ],
         "Focus": [
+            "ZTS",
+            "SE",
+            "Titanium",
+            "SES",
+            "ZTW",
+            "Electric",
+            "ZX5 SES",
+            "ZX4 ST",
+            "S",
+            "SVT",
+            "ZX3 SES",
+            "ZX4 SES",
+            "SE Comfort",
+            "ZX4 SE",
             "ZX3 Power Premium",
             "SEL",
-            "ZX5 SE",
-            "ZX5",
-            "SVT",
-            "ZX4 SES",
-            "Titanium",
-            "ZX3 S",
-            "ZX5 SES",
-            "ZTS",
             "ZX5 Premium",
-            "SES",
-            "S",
-            "ZTW",
-            "ZX3 SES",
-            "ZX4 SE",
-            "ZX4 ST",
-            "ZXW SES",
-            "Electric",
-            "SE Comfort",
+            "ZX3 S",
+            "LX Premium",
             "ZX3",
             "LX",
-            "LX Premium",
+            "ZXW SES",
             "BEV",
-            "SE"
+            "ZX5",
+            "ZX5 SE"
         ],
         "Focus ST": [
             "Base"
         ],
         "Freestar": [
-            "Limited",
-            "SEL",
-            "SES",
-            "Cargo",
             "SE",
-            "S"
+            "Cargo",
+            "SEL",
+            "S",
+            "SES",
+            "Limited"
         ],
         "Freestyle": [
             "SE",
-            "Limited",
-            "SEL"
+            "SEL",
+            "Limited"
         ],
         "Fusion": [
-            "SPORT",
-            "SEL",
-            "Hybrid",
             "SE",
+            "SEL",
+            "Titanium",
             "S",
-            "Titanium"
+            "Hybrid",
+            "SPORT"
         ],
         "Fusion Energi": [
-            "Titanium",
-            "SE Luxury"
+            "SE Luxury",
+            "Titanium"
         ],
         "Fusion Hybrid": [
             "SE",
-            "S",
+            "Base",
             "Titanium",
-            "Base"
+            "S"
         ],
         "Mustang": [
-            "GT",
-            "Base",
-            "GT Premium",
-            "Bullitt",
-            "GT Deluxe",
-            "Boss 302",
-            "V6 Premium",
-            "SVT Cobra",
-            "V6",
-            "Mach 1 Premium",
             "Premium",
+            "GT Deluxe",
+            "Base",
+            "EcoBoost",
+            "GT",
+            "SVT Cobra",
+            "Mach 1 Premium",
             "Standard",
+            "V6 Premium",
+            "GT Premium",
             "Deluxe",
-            "EcoBoost"
+            "Bullitt",
+            "V6",
+            "Boss 302"
         ],
         "Mustang SVT Cobra": [
             "Base"
@@ -1816,81 +1816,81 @@
         "Ranger": [
             "XLT",
             "FX4 Off-Road",
-            "XLT Value",
-            "Tremor",
-            "FX4 Level II",
-            "XL",
-            "Edge",
-            "EDGE",
-            "Splash",
-            "Edge Plus",
             "SPORT",
-            "XLT Appearance",
+            "EDGE",
             "STX",
-            "S"
+            "XL",
+            "Edge Plus",
+            "XLT Value",
+            "Edge",
+            "XLT Appearance",
+            "Splash",
+            "S",
+            "FX4 Level II",
+            "Tremor"
         ],
         "Shelby GT500": [
             "Base"
         ],
         "Taurus": [
-            "SE Fleet",
-            "Limited",
+            "SE",
+            "SHO",
+            "SE Premium",
             "SES Deluxe",
             "SEL",
+            "SES",
             "SEL Deluxe",
-            "GL",
+            "SE Fleet",
+            "SEL Premium",
             "SEL Fleet",
             "LX",
-            "SE Premium",
-            "SES",
             "G",
-            "SEL Premium",
-            "SE",
-            "SHO"
+            "GL",
+            "Limited"
         ],
         "Taurus X": [
-            "Limited",
+            "Eddie Bauer",
             "SEL",
-            "Eddie Bauer"
+            "Limited"
         ],
         "Tempo": [
             "GL"
         ],
         "Thunderbird": [
+            "Premium",
             "LX",
-            "Deluxe",
-            "Premium"
+            "Deluxe"
         ],
         "Transit Connect": [
-            "Wagon XLT",
-            "Wagon XLT LWB",
-            "Cargo Van XL LWB",
-            "Wagon XLT Premium",
-            "Wagon XLT SWB",
             "Cargo Van XLT",
+            "Wagon XLT SWB",
             "Cargo Van XLT LWB",
+            "Wagon XLT Premium",
+            "Wagon XLT",
+            "Cargo Van XL LWB",
             "Cargo Van XL",
-            "Wagon Titanium LWB"
+            "Wagon Titanium LWB",
+            "Wagon XLT LWB"
         ],
         "Transit Van": [
-            "250 Low Roof",
             "150 Low Roof",
-            "250 High Roof",
-            "250 Medium Roof"
+            "250 Medium Roof",
+            "250 Low Roof",
+            "250 High Roof"
         ],
         "Transit Wagon": [
-            "350 XL High Roof",
+            "350 XL Low Roof",
             "350 XL Medium Roof",
-            "350 XL Low Roof"
+            "350 XL High Roof"
         ],
         "Windstar": [
-            "LX",
-            "Limited",
-            "SEL",
-            "SE Sport",
-            "Base",
             "SE",
-            "LX Standard"
+            "Base",
+            "SEL",
+            "LX Standard",
+            "LX",
+            "SE Sport",
+            "Limited"
         ],
         "Windstar Cargo": [
             "Base"
@@ -1898,46 +1898,46 @@
     },
     "GMC": {
         "Acadia": [
-            "SLT-1",
-            "SLE-1",
             "SLT-2",
-            "SLE-2",
-            "SLE",
+            "SLE-1",
             "Denali",
+            "SLE",
+            "SLE-2",
+            "SLT-1",
             "SL"
         ],
         "Canyon": [
+            "Z85 SL",
+            "Z71 SLE",
             "Work Truck",
-            "Z85 SLE",
+            "SL",
             "SLE-1",
             "SLE",
-            "Z85 SL",
-            "Z71 SLE Base",
-            "SLT",
+            "Z85 SLE",
             "SLE-2",
-            "SL",
-            "Z71 SL",
-            "Z71 SLE"
+            "SLT",
+            "Z71 SLE Base",
+            "Z71 SL"
         ],
         "Envoy": [
-            "SLE",
             "Denali",
-            "SLT"
+            "SLT",
+            "SLE"
         ],
         "Envoy XL": [
-            "SLE",
             "Denali",
-            "SLT"
+            "SLT",
+            "SLE"
         ],
         "Envoy XUV": [
-            "SLE",
-            "SLT"
+            "SLT",
+            "SLE"
         ],
         "Jimmy": [
-            "SLE",
-            "SLS",
             "Diamond Edition",
-            "SLT"
+            "SLT",
+            "SLE",
+            "SLS"
         ],
         "Safari": [
             "SLE",
@@ -1948,40 +1948,40 @@
             "SL"
         ],
         "Savana": [
-            "LS 3500",
-            "LS 1500"
+            "LS 1500",
+            "LS 3500"
         ],
         "Savana Cargo": [
-            "G3500",
             "2500",
             "1500",
-            "3500"
+            "3500",
+            "G3500"
         ],
         "Sierra 1500": [
-            "SL1",
-            "Work Truck",
-            "SLE2",
-            "Base",
-            "SLE",
-            "SLE1",
-            "SL",
-            "SLT",
             "SL2",
-            "Denali"
+            "Base",
+            "SL1",
+            "SLE2",
+            "Work Truck",
+            "SL",
+            "SLE1",
+            "Denali",
+            "SLE",
+            "SLT"
         ],
         "Sierra 1500 Classic": [
-            "SL1",
-            "Work Truck",
             "SL2",
             "SLE1",
-            "SLT"
+            "SLT",
+            "SL1",
+            "Work Truck"
         ],
         "Sierra 1500 Hybrid": [
             "Base"
         ],
         "Sierra 1500HD": [
-            "SLE",
-            "SLT"
+            "SLT",
+            "SLE"
         ],
         "Sierra 2500": [
             "SLE",
@@ -1989,59 +1989,59 @@
             "Base"
         ],
         "Sierra 2500HD": [
-            "SL1",
-            "Work Truck",
-            "SLE2",
             "Base",
-            "SLE",
+            "SL1",
+            "SLE2",
+            "Work Truck",
             "SLE1",
-            "SLT",
-            "Denali"
+            "Denali",
+            "SLE",
+            "SLT"
         ],
         "Sierra 2500HD Classic": [
-            "SLE1",
-            "SLT"
+            "SLT",
+            "SLE1"
         ],
         "Sierra 3500": [
-            "SL1",
+            "SLT",
             "SLE",
             "Base",
-            "SLT"
+            "SL1"
         ],
         "Sierra 3500HD": [
-            "Work Truck",
-            "SLE",
-            "Denali",
             "SLE1",
-            "SLT"
+            "Denali",
+            "SLE",
+            "SLT",
+            "Work Truck"
         ],
         "Sonoma": [
-            "SLS Sport",
-            "SLS",
             "SLE",
-            "SL"
+            "SL",
+            "SLS Sport",
+            "SLS"
         ],
         "Suburban": [
-            "1500 SLT",
-            "1500"
+            "1500",
+            "1500 SLT"
         ],
         "Terrain": [
-            "SLT-1",
-            "SLE-1",
             "SLT-2",
+            "SLE-1",
+            "Denali",
             "SLE-2",
-            "Denali"
+            "SLT-1"
         ],
         "Yukon": [
-            "SLT1 XFE",
-            "SLT1",
-            "SLE2 XFE",
-            "SLE",
             "Fleet",
-            "SLE1",
-            "SLT",
+            "SLT1",
             "SL",
-            "Denali"
+            "SLE2 XFE",
+            "SLE1",
+            "Denali",
+            "SLE",
+            "SLT",
+            "SLT1 XFE"
         ],
         "Yukon Denali": [
             "Denali"
@@ -2053,15 +2053,15 @@
         "Yukon XL": [
             "SLT 1500",
             "2500 SLE",
-            "SLE",
             "1500 SLE",
-            "1500 SLT",
-            "SLT",
+            "SL 1500",
             "SLT2 1500",
             "SLE 1500",
             "Denali",
-            "SL 1500",
-            "SLT1 1500"
+            "SLT1 1500",
+            "1500 SLT",
+            "SLE",
+            "SLT"
         ],
         "envoy": [
             "Base"
@@ -2086,9 +2086,9 @@
             "Base"
         ],
         "H3": [
-            "Luxury",
             "Alpha",
-            "Base"
+            "Base",
+            "Luxury"
         ],
         "H3T": [
             "Alpha",
@@ -2097,33 +2097,33 @@
     },
     "Honda": {
         "Accord": [
-            "Special Edition V-6",
-            "EX-L",
-            "EX PZEV",
-            "10th Anniversary",
-            "LX-P",
-            "Value Package",
-            "EX V-6",
-            "LX Special Edition V-6",
-            "LX PZEV",
-            "LX-S",
-            "DX",
-            "Value",
-            "25th Anniversary",
             "LX Special Edition PZEV",
-            "Touring V-6",
-            "Hybrid",
-            "LX V6",
-            "Sport",
-            "LX V-6",
-            "LX",
-            "LX Special Edition",
-            "Special Edition",
-            "EX V6",
-            "EX-L V-6 w/Navigation",
+            "LX PZEV",
             "SE",
+            "Value Package",
+            "LX V6",
+            "EX-L",
+            "EX V-6",
+            "Sport",
+            "LX-P",
+            "EX-L V-6 w/Navigation",
             "EX-L V-6",
-            "EX"
+            "LX Special Edition V-6",
+            "LX V-6",
+            "LX-S",
+            "25th Anniversary",
+            "DX",
+            "Special Edition V-6",
+            "Hybrid",
+            "10th Anniversary",
+            "EX",
+            "Special Edition",
+            "EX PZEV",
+            "LX Special Edition",
+            "LX",
+            "Value",
+            "Touring V-6",
+            "EX V6"
         ],
         "Accord Crosstour": [
             "EX-L",
@@ -2134,41 +2134,41 @@
             "Touring"
         ],
         "CR-V": [
+            "SE",
+            "Base",
             "LX",
             "EX-L w/Rear Entertainment",
             "EX-L",
-            "Special Edition",
-            "Base",
-            "SE",
-            "EX"
+            "EX",
+            "Special Edition"
         ],
         "CR-Z": [
-            "EX",
-            "Base"
+            "Base",
+            "EX"
         ],
         "Civic": [
-            "EX-L",
-            "HX",
-            "EX PZEV",
-            "VP",
-            "Natural Gas",
-            "HF",
-            "Value Package",
-            "Hybrid PZEV",
-            "GX",
             "LX PZEV",
-            "Si",
+            "Value Package",
+            "EX Special Edition",
+            "EX-L",
+            "Hybrid PZEV w/Leather and Navigation",
+            "Hybrid w/Leather",
             "LX-S",
+            "Si",
             "DX",
             "Base",
+            "Natural Gas",
             "Hybrid",
-            "Hybrid PZEV w/Leather and Navigation",
-            "LX",
-            "LX Special Edition",
             "DX-VP",
-            "EX Special Edition",
+            "VP",
             "EX",
-            "Hybrid w/Leather"
+            "Hybrid PZEV",
+            "HX",
+            "GX",
+            "HF",
+            "EX PZEV",
+            "LX Special Edition",
+            "LX"
         ],
         "Civic del Sol": [
             "S"
@@ -2178,61 +2178,61 @@
             "EX"
         ],
         "Element": [
-            "LX",
-            "SC",
-            "DX",
             "EX-P",
-            "EX"
+            "SC",
+            "LX",
+            "EX",
+            "DX"
         ],
         "Fit": [
-            "LX",
-            "EX-L",
             "Sport w/Navigation",
             "Base",
+            "LX",
+            "EX-L",
             "Sport",
             "EX"
         ],
         "Insight": [
             "Base",
-            "LX",
-            "EX"
+            "EX",
+            "LX"
         ],
         "Odyssey": [
+            "Touring Elite",
             "LX",
             "EX-L w/Rear Entertainment",
-            "Touring Elite",
             "EX-L",
             "EX",
             "Touring"
         ],
         "Passport": [
-            "LX",
-            "EX"
+            "EX",
+            "LX"
         ],
         "Pilot": [
-            "EX-L w/Navigation",
+            "Value Package",
+            "Touring w/Navigation and Rear Entertainment",
             "EX-L",
             "EX",
-            "Value Package",
-            "LX",
-            "Touring w/Navigation and Rear Entertainment",
-            "EX-L w/Rear Entertainment",
+            "Touring",
             "Special Edition",
-            "Touring"
+            "LX",
+            "EX-L w/Rear Entertainment",
+            "EX-L w/Navigation"
         ],
         "Prelude": [
             "Type SH",
             "Base"
         ],
         "Ridgeline": [
-            "RT",
+            "RTL w/Leather",
+            "RTX",
+            "Sport",
             "SE w/Leather and Navigation",
             "RTL",
-            "Sport",
+            "RT",
             "RTS",
-            "RTX",
-            "RTL w/Leather and Navigation",
-            "RTL w/Leather"
+            "RTL w/Leather and Navigation"
         ],
         "S2000": [
             "Base"
@@ -2243,38 +2243,38 @@
     },
     "Hyundai": {
         "Accent": [
-            "GT",
+            "SE",
             "Base",
-            "GL",
+            "GT",
+            "GS",
             "GLS",
             "L",
-            "GS",
-            "SE",
-            "Blue"
+            "Blue",
+            "GL"
         ],
         "Azera": [
             "SE",
-            "Limited",
+            "Base",
             "GLS",
-            "Base"
+            "Limited"
         ],
         "Elantra": [
-            "GT",
-            "SE SULEV",
             "Limited",
+            "SE",
+            "Limited SULEV",
+            "GT",
             "Sport",
             "GLS",
-            "Limited SULEV",
+            "SE SULEV",
             "GT SULEV",
-            "SE",
             "Blue",
             "GLS PZEV"
         ],
         "Elantra Coupe": [
-            "GS",
             "SE",
+            "Base",
             "GS PZEV",
-            "Base"
+            "GS"
         ],
         "Elantra GT": [
             "Base"
@@ -2286,8 +2286,8 @@
         ],
         "Entourage": [
             "SE",
-            "Limited",
-            "GLS"
+            "GLS",
+            "Limited"
         ],
         "Equus": [
             "Signature",
@@ -2296,85 +2296,85 @@
         "Genesis": [
             "5",
             "5.0 R-Spec",
-            "4.6",
-            "3.8"
+            "3.8",
+            "4.6"
         ],
         "Genesis Coupe": [
-            "3.8 R-Spec",
             "2.0T R-Spec",
-            "2.0T",
-            "3.8 Grand Touring",
             "3.8 Track",
+            "3.8 R-Spec",
+            "3.8 Grand Touring",
+            "2.0T",
             "3.8 Ultimate"
         ],
         "Santa Fe": [
-            "Limited",
+            "SE",
             "Base",
             "Sport",
-            "GL",
-            "LX",
             "GLS",
-            "SE",
-            "Sport 2.0T"
+            "LX",
+            "Sport 2.0T",
+            "GL",
+            "Limited"
         ],
         "Santa Fe Sport": [
             "Sport",
             "Sport 2.0T"
         ],
         "Sonata": [
-            "GL",
-            "Eco",
+            "SE",
+            "Limited V6",
+            "Sport",
+            "Limited PZEV",
+            "GLS",
+            "V6",
             "Sport 2.0T",
-            "GLS V6",
-            "Sport PZEV",
+            "GL",
             "Limited",
             "Base",
-            "Limited PZEV",
-            "Sport",
-            "LX",
-            "Limited V6",
-            "V6",
-            "SE V6",
-            "GLS",
             "GL V6",
             "GLS Special Value",
-            "SE",
+            "SE V6",
+            "GLS V6",
+            "Sport PZEV",
+            "LX",
+            "Eco",
             "GLS PZEV"
         ],
         "Sonata Hybrid": [
-            "Limited",
-            "Base"
+            "Base",
+            "Limited"
         ],
         "Tiburon": [
-            "GT",
-            "Base",
-            "GS",
             "SE",
-            "GT Limited"
+            "Base",
+            "GT",
+            "GT Limited",
+            "GS"
         ],
         "Tucson": [
-            "LX",
             "Limited",
-            "GLS",
-            "Limited PZEV",
             "SE",
-            "GLS PZEV",
-            "GL"
+            "GLS",
+            "LX",
+            "GL",
+            "Limited PZEV",
+            "GLS PZEV"
         ],
         "Veloster": [
-            "RE:MIX",
-            "Turbo",
             "RE:FLEX",
-            "Base"
+            "Turbo",
+            "Base",
+            "RE:MIX"
         ],
         "Veracruz": [
             "SE",
-            "Limited",
-            "GLS"
+            "GLS",
+            "Limited"
         ],
         "XG300": [
-            "L",
-            "Base"
+            "Base",
+            "L"
         ],
         "XG350": [
             "Base",
@@ -2383,17 +2383,17 @@
     },
     "Infiniti": {
         "EX": [
-            "EX35",
-            "EX35 Journey"
+            "EX35 Journey",
+            "EX35"
         ],
         "EX35": [
             "Journey",
             "Base"
         ],
         "FX": [
+            "FX35",
             "FX37",
-            "FX50",
-            "FX35"
+            "FX50"
         ],
         "FX35": [
             "Base"
@@ -2408,18 +2408,18 @@
             "G37"
         ],
         "G Coupe": [
-            "G37x",
             "G37 Journey",
             "G37 Sport",
-            "IPL",
-            "G37"
+            "G37",
+            "G37x",
+            "IPL"
         ],
         "G Sedan": [
-            "G37x",
-            "G25",
             "G37 Journey",
+            "G25 Journey",
+            "G37x",
             "G25x",
-            "G25 Journey"
+            "G25"
         ],
         "G20": [
             "Base",
@@ -2428,13 +2428,13 @@
         "G35": [
             "x",
             "Sport",
-            "Journey",
-            "Base"
+            "Base",
+            "Journey"
         ],
         "G37": [
-            "x",
             "Sport",
             "Journey",
+            "x",
             "Base"
         ],
         "G37 Convertible": [
@@ -2457,11 +2457,11 @@
             "JX35"
         ],
         "M": [
-            "M56",
             "M35h",
             "M37",
             "M37x",
-            "M56x"
+            "M56x",
+            "M56"
         ],
         "M35": [
             "x",
@@ -2482,28 +2482,28 @@
             "Base"
         ],
         "Q45": [
-            "Luxury",
             "Premium",
-            "Base"
+            "Base",
+            "Luxury"
         ],
         "Q50": [
-            "Hybrid Premium",
             "Premium",
             "Base",
-            "Sport",
-            "Hybrid Sport"
+            "Hybrid Sport",
+            "Hybrid Premium",
+            "Sport"
         ],
         "Q60 Convertible": [
-            "IPL",
             "Sport",
-            "Base"
+            "Base",
+            "IPL"
         ],
         "Q60 Coupe": [
-            "Journey",
             "Base",
-            "IPL",
+            "Sport Limited",
+            "Journey",
             "Sport",
-            "Sport Limited"
+            "IPL"
         ],
         "Q70": [
             "Base"
@@ -2537,25 +2537,25 @@
             "S"
         ],
         "Ascender": [
-            "LS",
-            "S 5-Passenger",
-            "S 7-Passenger",
-            "S 7 Passenger",
-            "LS 7 Passenger",
             "Luxury 5 Passenger",
-            "S 5 Passenger",
             "LS 5 Passenger",
-            "S"
+            "S 7 Passenger",
+            "S 7-Passenger",
+            "LS 7 Passenger",
+            "S 5 Passenger",
+            "S",
+            "LS",
+            "S 5-Passenger"
         ],
         "Axiom": [
-            "S",
             "XS",
-            "Base"
+            "Base",
+            "S"
         ],
         "Rodeo": [
+            "LSE",
             "LS",
-            "S",
-            "LSE"
+            "S"
         ],
         "Rodeo Sport": [
             "S V6"
@@ -2565,62 +2565,62 @@
             "Limited"
         ],
         "i-Series": [
-            "i-280 S",
             "i-290 LS",
+            "i-280 S",
             "i-290 S"
         ]
     },
     "Jaguar": {
         "F-TYPE": [
-            "S",
-            "R",
+            "V8 S",
             "Base",
-            "V8 S"
+            "R",
+            "S"
         ],
         "S-Type": [
-            "4.2",
             "4",
-            "R",
-            "3"
+            "4.2",
+            "3",
+            "R"
         ],
         "X-Type": [
+            "2.5",
             "3.0L Sportwagon",
             "3.0L",
-            "3",
-            "2.5"
+            "3"
         ],
         "XF": [
-            "XFR",
-            "Premium Luxury",
+            "Premium",
+            "Supercharged",
+            "Base",
             "Luxury",
             "Portfolio",
-            "Premium",
-            "Base",
-            "Supercharged"
+            "Premium Luxury",
+            "XFR"
         ],
         "XJ": [
-            "XJL Supercharged",
-            "XJL",
-            "XJR",
-            "Base",
             "Supercharged",
+            "Base",
+            "XJL",
+            "XJL Supercharged",
             "XJR LWB",
-            "XJL Portfolio"
+            "XJL Portfolio",
+            "XJR"
         ],
         "XJ-Series": [
-            "Vanden Plas",
-            "XJR",
             "XJ6L",
-            "XJ6 Vanden Plas",
+            "Vanden Plas",
             "XJ8L",
-            "XJ8",
+            "XJ6",
             "XJ6 Sovereign",
             "XJ8 L",
-            "XJ6"
+            "XJ8",
+            "XJ6 Vanden Plas",
+            "XJR"
         ],
         "XK": [
-            "XKR",
-            "Base"
+            "Base",
+            "XKR"
         ],
         "XK-Series": [
             "XK",
@@ -2630,73 +2630,73 @@
     },
     "Jeep": {
         "Cherokee": [
-            "Laredo",
-            "Country",
             "Limited",
-            "Trailhawk",
+            "Country",
             "Latitude",
+            "Classic",
             "Sport",
-            "Classic"
+            "Trailhawk",
+            "Laredo"
         ],
         "Commander": [
             "Overland",
-            "Limited",
             "Sport",
-            "Base"
+            "Base",
+            "Limited"
         ],
         "Compass": [
-            "Altitude Edition",
             "Limited",
             "Base",
             "Latitude",
-            "Sport"
+            "Sport",
+            "Altitude Edition"
         ],
         "Grand Cherokee": [
             "Limited",
+            "SRT-8",
+            "SRT8",
+            "Sport",
+            "Altitude",
+            "SRT",
             "Overland",
             "Summit",
-            "Sport",
-            "SRT",
-            "Laredo",
-            "SRT8",
-            "SRT-8",
-            "Altitude"
+            "Laredo"
         ],
         "Grand Cherokee SRT": [
             "Base"
         ],
         "Liberty": [
-            "Limited",
-            "Sport",
             "Renegade",
-            "Limited Jet",
             "Limited Edition",
-            "Rocky Mountain"
+            "Rocky Mountain",
+            "Limited Jet",
+            "Sport",
+            "Limited"
         ],
         "Patriot": [
-            "Limited",
-            "Latitude",
             "Latitude X",
+            "Latitude",
+            "High Altitude Edition",
             "Sport",
-            "High Altitude Edition"
+            "Limited"
         ],
         "Wrangler": [
+            "Unlimited Sahara",
+            "SE",
+            "Unlimited Sport",
+            "Sport",
             "Unlimited Freedom Edition",
             "X",
-            "70th Anniversary",
+            "Unlimited",
+            "Unlimited Sport RHD",
+            "Unlimited Rubicon",
             "Unlimited X",
+            "Unlimited 70th Anniversary",
+            "70th Anniversary",
             "Freedom Edition",
             "Rubicon",
             "Sahara",
-            "Unlimited Sahara",
-            "Unlimited Rubicon",
-            "Unlimited Sport",
-            "Sport",
-            "Unlimited Sport RHD",
-            "Unlimited 70th Anniversary",
-            "Unlimited Rubicon Hard Rock",
-            "Unlimited",
-            "SE"
+            "Unlimited Rubicon Hard Rock"
         ]
     },
     "Kia": {
@@ -2704,88 +2704,88 @@
             "Base"
         ],
         "Borrego": [
-            "LX",
-            "EX"
+            "EX",
+            "LX"
         ],
         "Cadenza": [
-            "Limited",
-            "Premium"
+            "Premium",
+            "Limited"
         ],
         "Forte": [
-            "SX",
+            "Koup SX",
             "LX",
             "Koup EX",
-            "Koup SX",
             "Forte5 EX",
-            "EX"
+            "EX",
+            "SX"
         ],
         "K900": [
             "Luxury"
         ],
         "Optima": [
-            "SX",
-            "EX Hybrid",
-            "LX Hybrid",
+            "SE",
+            "SXL",
             "Hybrid",
+            "SX Turbo",
+            "EX",
+            "SX",
+            "LX Hybrid",
             "EX Turbo",
             "LX",
-            "SXL",
-            "SX Turbo",
-            "SE",
-            "EX"
+            "EX Hybrid"
         ],
         "Rio": [
-            "SX",
-            "LX",
+            "Rio5 LX",
             "Base",
-            "Rio5 SX",
-            "EX",
+            "LX",
             "Cinco",
-            "Rio5 LX"
+            "EX",
+            "SX",
+            "Rio5 SX"
         ],
         "Rondo": [
-            "LX",
-            "EX"
+            "EX",
+            "LX"
         ],
         "Sedona": [
-            "LX",
             "Base",
-            "EX"
+            "EX",
+            "LX"
         ],
         "Sephia": [
-            "LS",
-            "Base"
+            "Base",
+            "LS"
         ],
         "Sorento": [
-            "SX",
-            "LX",
             "SXL",
-            "Limited",
             "Base",
-            "EX"
+            "LX",
+            "EX",
+            "SX",
+            "Limited"
         ],
         "Soul": [
-            "+",
-            "Sport",
             "!",
+            "Sport",
+            "+",
             "Base"
         ],
         "Spectra": [
-            "SX",
-            "LS",
-            "Spectra5",
             "Base",
-            "Spectra5 SX",
+            "Spectra5",
+            "EX",
+            "SX",
+            "GS",
             "LX",
             "GSX",
-            "GS",
-            "EX"
+            "LS",
+            "Spectra5 SX"
         ],
         "Sportage": [
-            "LX",
             "SX",
+            "Base",
             "EX",
-            "Base"
+            "LX"
         ]
     },
     "Lamborghini": {
@@ -2795,8 +2795,8 @@
     },
     "Land Rover": {
         "Discovery": [
-            "Series II",
-            "LE"
+            "LE",
+            "Series II"
         ],
         "Discovery Series II": [
             "SD",
@@ -2805,55 +2805,55 @@
         ],
         "Freelander": [
             "SE",
+            "HSE",
             "S",
-            "SE3",
-            "HSE"
+            "SE3"
         ],
         "LR2": [
-            "Base",
             "SE",
+            "Base",
             "HSE"
         ],
         "LR3": [
             "V8 SE",
-            "V8 HSE",
-            "V8"
+            "V8",
+            "V8 HSE"
         ],
         "LR4": [
             "HSE LUX",
-            "V8",
             "Base",
+            "XXV",
             "HSE",
-            "XXV"
+            "V8"
         ],
         "Range Rover": [
-            "4.6 HSE",
-            "Autobiography",
-            "HSE",
+            "4.0 SE",
             "Base",
             "4.6 SE",
-            "4.6 Vitesse",
             "Autobiography LWB",
             "4.0 S",
-            "4.0 SE",
-            "Supercharged LWB",
             "Supercharged",
-            "Ebony Edition"
+            "4.6 HSE",
+            "4.6 Vitesse",
+            "Supercharged LWB",
+            "Ebony Edition",
+            "HSE",
+            "Autobiography"
         ],
         "Range Rover Evoque": [
             "Pure",
-            "Pure Plus",
+            "Prestige Premium",
             "Pure Premium",
             "Dynamic Premium",
-            "Prestige Premium"
+            "Pure Plus"
         ],
         "Range Rover Sport": [
-            "Luxury",
-            "Autobiography",
-            "HSE",
-            "GT Limited Edition",
+            "Supercharged Limited Edition",
             "Supercharged",
-            "Supercharged Limited Edition"
+            "Luxury",
+            "GT Limited Edition",
+            "HSE",
+            "Autobiography"
         ]
     },
     "Lexus": {
@@ -2892,9 +2892,9 @@
             "Base"
         ],
         "GX 460": [
-            "Luxury",
             "Premium",
-            "Base"
+            "Base",
+            "Luxury"
         ],
         "GX 470": [
             "Base"
@@ -2910,8 +2910,8 @@
             "Base"
         ],
         "IS 300": [
-            "SportCross",
-            "Base"
+            "Base",
+            "SportCross"
         ],
         "IS 350": [
             "Base"
@@ -2978,9 +2978,9 @@
     },
     "Lincoln": {
         "Aviator": [
+            "Premium",
             "Ultimate",
-            "Luxury",
-            "Premium"
+            "Luxury"
         ],
         "Blackwood": [
             "Base"
@@ -2989,12 +2989,12 @@
             "Base"
         ],
         "LS": [
-            "V6",
-            "V8",
             "Premium",
+            "LSE",
             "Base",
-            "Sport",
-            "LSE"
+            "V8",
+            "V6",
+            "Sport"
         ],
         "MKC": [
             "Base"
@@ -3023,24 +3023,24 @@
             "Base"
         ],
         "Navigator": [
-            "Luxury",
             "Premium",
             "Base",
+            "Luxury",
             "L",
             "Ultimate"
         ],
         "Navigator L": [
-            "Luxury",
-            "Base"
+            "Base",
+            "Luxury"
         ],
         "Town Car": [
-            "Signature",
-            "Premium Cartier",
-            "Signature L",
-            "Executive",
-            "Signature Limited",
-            "Ultimate",
             "Premium Signature",
+            "Signature",
+            "Executive",
+            "Signature L",
+            "Ultimate",
+            "Premium Cartier",
+            "Signature Limited",
             "Cartier"
         ],
         "Zephyr": [
@@ -3054,36 +3054,36 @@
     },
     "MINI": {
         "Cooper": [
-            "John Cooper Works",
+            "Base",
             "S",
-            "Base"
+            "John Cooper Works"
         ],
         "Cooper Clubman": [
-            "John Cooper Works",
+            "Base",
             "S",
-            "Base"
+            "John Cooper Works"
         ],
         "Cooper Countryman": [
-            "S ALL4",
-            "S",
             "John Cooper Works ALL4",
-            "Base"
+            "Base",
+            "S",
+            "S ALL4"
         ],
         "Cooper Coupe": [
-            "John Cooper Works",
+            "Base",
             "S",
-            "Base"
+            "John Cooper Works"
         ],
         "Cooper Paceman": [
             "S ALL4",
+            "Base",
             "S",
-            "John Cooper Works ALL4",
-            "Base"
+            "John Cooper Works ALL4"
         ],
         "Cooper Roadster": [
-            "John Cooper Works",
+            "Base",
             "S",
-            "Base"
+            "John Cooper Works"
         ]
     },
     "Maserati": {
@@ -3098,21 +3098,21 @@
             "Base"
         ],
         "GranTurismo": [
-            "S",
             "S Automatic",
             "Base",
-            "MC"
+            "MC",
+            "S"
         ],
         "GranTurismo Convertible": [
             "Base"
         ],
         "Quattroporte": [
             "S Q4",
-            "Sport GT S Automatic",
             "Base",
-            "Executive GT DuoSelect",
+            "GTS",
             "S",
-            "GTS"
+            "Executive GT DuoSelect",
+            "Sport GT S Automatic"
         ],
         "Spyder": [
             "GT"
@@ -3120,27 +3120,27 @@
     },
     "Mazda": {
         "3": [
-            "i",
-            "i Grand Touring",
             "i Touring",
             "s Sport",
-            "s Grand Touring"
+            "s Grand Touring",
+            "i",
+            "i Grand Touring"
         ],
         "6": [
+            "i Touring",
+            "s Sport Value Edition",
             "i",
             "i Grand Touring",
             "s Touring Plus",
-            "s",
-            "i Touring",
             "i Sport",
-            "i Touring Plus",
-            "s Sport Value Edition"
+            "s",
+            "i Touring Plus"
         ],
         "626": [
-            "LX",
-            "ES V6",
-            "LX V6",
             "ES",
+            "LX",
+            "LX V6",
+            "ES V6",
             "DX"
         ],
         "B-Series Pickup": [
@@ -3159,13 +3159,13 @@
             "Touring"
         ],
         "CX-7": [
-            "i Sport",
-            "i SV",
-            "s Touring",
             "i Touring",
+            "s Touring",
+            "s Grand Touring",
+            "i SV",
             "Grand Touring",
-            "Sport",
-            "s Grand Touring"
+            "i Sport",
+            "Sport"
         ],
         "CX-9": [
             "Grand Touring",
@@ -3173,35 +3173,35 @@
             "Touring"
         ],
         "MPV": [
-            "LX",
+            "DX",
             "ES",
-            "DX"
+            "LX"
         ],
         "MX-5 Miata": [
-            "LS",
             "Base",
-            "Cloth",
-            "Sport",
             "Club",
-            "Special Edition",
             "Grand Touring",
-            "Touring"
+            "Sport",
+            "Touring",
+            "Special Edition",
+            "LS",
+            "Cloth"
         ],
         "Mazda2": [
             "Sport",
             "Touring"
         ],
         "Mazda3": [
-            "i SV",
+            "i Touring",
+            "SP23 Special Edition",
+            "s Grand Touring",
             "i",
             "i Grand Touring",
-            "s Grand Touring",
-            "SP23 Special Edition",
-            "s",
-            "i Touring",
             "s Touring",
-            "i Sport",
-            "s Sport"
+            "s Sport",
+            "i SV",
+            "s",
+            "i Sport"
         ],
         "Mazda5": [
             "Grand Touring",
@@ -3209,18 +3209,18 @@
             "Touring"
         ],
         "Mazda6": [
-            "i SV",
-            "i",
-            "i Grand Touring",
-            "s Grand Touring",
-            "i Sport Value Edition",
-            "s",
             "i Touring",
-            "s Touring",
-            "i Sport",
-            "i Touring Plus",
+            "s Grand Touring",
+            "i",
             "s Touring Plus",
-            "s Sport"
+            "i Grand Touring",
+            "i Touring Plus",
+            "s Touring",
+            "s Sport",
+            "i SV",
+            "s",
+            "i Sport",
+            "i Sport Value Edition"
         ],
         "Mazdaspeed 3": [
             "Grand Touring",
@@ -3246,9 +3246,9 @@
             "Touring"
         ],
         "Millenia": [
-            "S",
             "Premium",
-            "Base"
+            "Base",
+            "S"
         ],
         "Protege": [
             "LX",
@@ -3263,23 +3263,23 @@
             "Touring"
         ],
         "Tribute": [
-            "i",
-            "i Grand Touring",
+            "i Touring",
             "s Grand Touring",
+            "i",
+            "i Sport",
+            "i Grand Touring",
+            "DX-V6",
             "LX-V6",
             "s",
             "ES-V6",
-            "i Touring",
-            "i Sport",
-            "DX-V6",
             "DX"
         ],
         "Tribute Hybrid": [
             "Touring"
         ],
         "Truck": [
-            "B3000",
             "B3000 Dual Sport",
+            "B3000",
             "B2300"
         ]
     },
@@ -3288,9 +3288,9 @@
             "190E 2.3"
         ],
         "300-Class": [
-            "300E 2.8",
-            "300E",
             "300SL",
+            "300E",
+            "300E 2.8",
             "300SE"
         ],
         "400-Class": [
@@ -3306,187 +3306,187 @@
             "Base"
         ],
         "C-Class": [
-            "C63 AMG",
-            "C250 Sport",
-            "C320 Luxury 4MATIC",
-            "C32 AMG",
-            "C350 Luxury",
-            "C350",
-            "C300 Luxury 4MATIC",
             "C230",
-            "C230 Kompressor",
-            "C240",
-            "C300",
-            "C300 Sport",
-            "C250",
-            "C320 4MATIC",
-            "C240 4MATIC",
-            "C230 Sport",
-            "C320 Sport",
             "C240 Luxury",
-            "C350 Luxury 4MATIC",
+            "C32 AMG",
+            "C240",
+            "C230 Sport",
+            "C240 Luxury 4MATIC",
             "C55 AMG",
             "C320",
             "C300 Luxury",
-            "C280 Luxury 4MATIC",
-            "C240 Luxury 4MATIC",
-            "C280",
+            "C350",
+            "C320 4MATIC",
+            "C240 4MATIC",
+            "C320 Sport",
             "C280 Luxury",
+            "C230 Kompressor",
+            "C280 Luxury 4MATIC",
+            "C300 Luxury 4MATIC",
+            "C280",
+            "C350 4MATIC",
+            "C320 Luxury 4MATIC",
+            "C350 Luxury 4MATIC",
+            "C63 AMG",
+            "C300 Sport",
             "C350 Sport",
-            "C220",
+            "C350 Luxury",
+            "C250",
+            "C250 Sport",
             "C300 Sport 4MATIC",
-            "C350 4MATIC"
+            "C300",
+            "C220"
         ],
         "CL-Class": [
-            "CL65 AMG",
-            "CL500",
-            "CL55 AMG",
-            "CL600",
             "CL550 4MATIC",
-            "CL63 AMG",
-            "CL550"
+            "CL65 AMG",
+            "CL55 AMG",
+            "CL550",
+            "CL500",
+            "CL600",
+            "CL63 AMG"
         ],
         "CLA-Class": [
             "CLA250 4MATIC",
-            "CLA250",
-            "CLA45 AMG"
+            "CLA45 AMG",
+            "CLA250"
         ],
         "CLK-Class": [
-            "CLK350",
-            "CLK320",
-            "CLK550",
-            "CLK500",
             "CLK55 AMG",
             "CLK63 AMG",
-            "CLK430"
+            "CLK430",
+            "CLK350",
+            "CLK550",
+            "CLK320",
+            "CLK500"
         ],
         "CLS-Class": [
+            "CLS55 AMG",
             "CLS63 AMG",
             "CLS500",
-            "CLS55 AMG",
-            "CLS550",
             "CLS63 AMG 4MATIC S-Model",
-            "CLS550 4MATIC"
+            "CLS550 4MATIC",
+            "CLS550"
         ],
         "E-Class": [
-            "E320",
-            "E250 Luxury BlueTEC 4MATIC",
-            "E63 AMG 4MATIC S-Model",
-            "E63 AMG 4MATIC",
-            "E350 Sport",
-            "E350 Luxury",
-            "E320 4MATIC",
-            "E420",
-            "E350 4MATIC",
-            "E550 4MATIC",
-            "E430",
-            "E320 BlueTEC",
-            "E320 BLUETEC",
             "E250 Sport BlueTEC",
-            "E430 4MATIC",
-            "E500 4MATIC",
-            "E63 AMG",
-            "E350",
-            "E350 Luxury 4MATIC",
-            "E550",
             "E320 CDI",
-            "E350 Sport 4MATIC",
-            "E350 BlueTEC",
-            "E550 Sport 4MATIC",
-            "E350 Sport BlueTEC",
-            "E300D",
+            "E350 4MATIC",
+            "E320 BlueTEC",
+            "E400 Hybrid",
+            "E550",
+            "E430",
+            "E63 AMG 4MATIC S-Model",
+            "E500 4MATIC",
             "E55 AMG",
+            "E550 Sport 4MATIC",
             "E500",
-            "E400 Hybrid"
+            "E350 Sport BlueTEC",
+            "E320 BLUETEC",
+            "E250 Luxury BlueTEC 4MATIC",
+            "E350 BlueTEC",
+            "E350 Luxury 4MATIC",
+            "E350",
+            "E63 AMG 4MATIC",
+            "E320",
+            "E300D",
+            "E350 Sport 4MATIC",
+            "E430 4MATIC",
+            "E550 4MATIC",
+            "E350 Luxury",
+            "E420",
+            "E350 Sport",
+            "E320 4MATIC",
+            "E63 AMG"
         ],
         "G-Class": [
+            "G63 AMG",
             "G500",
             "G550",
-            "G55 AMG",
-            "G63 AMG"
+            "G55 AMG"
         ],
         "GL-Class": [
-            "GL450",
-            "GL550 4MATIC",
             "GL450 4MATIC",
+            "GL550 4MATIC",
+            "GL550",
             "GL320 BlueTEC",
+            "GL320 CDI",
             "GL350 BlueTEC",
             "GL350 BlueTEC 4MATIC",
-            "GL63 AMG",
-            "GL320 CDI",
-            "GL550"
+            "GL450",
+            "GL63 AMG"
         ],
         "GLA-Class": [
             "GLA250 4MATIC"
         ],
         "GLK-Class": [
-            "GLK250 BlueTEC 4MATIC",
             "GLK350 4MATIC",
-            "GLK350"
+            "GLK350",
+            "GLK250 BlueTEC 4MATIC"
         ],
         "M-Class": [
+            "ML350 4MATIC",
             "ML550",
-            "ML55 AMG",
-            "ML350 BlueTEC 4MATIC",
-            "ML500",
-            "ML320 BlueTEC",
             "ML550 4MATIC",
             "ML350",
-            "ML430",
-            "ML320",
             "ML350 BlueTEC",
+            "ML430",
+            "ML63 AMG",
+            "ML350 BlueTEC 4MATIC",
+            "ML320 BlueTEC",
+            "ML55 AMG",
+            "ML500",
             "ML320 CDI",
-            "ML350 4MATIC",
-            "ML63 AMG"
+            "ML320"
         ],
         "ML55 AMG": [
             "Base"
         ],
         "R-Class": [
+            "R320 BlueTEC",
             "R350",
             "R350 4MATIC",
             "R320 CDI",
-            "R350 BlueTEC",
             "R500",
-            "R320 BlueTEC"
+            "R350 BlueTEC"
         ],
         "S-Class": [
-            "S65 AMG",
-            "S320 LWB",
-            "S500 4MATIC",
-            "S430",
-            "S420",
             "S430 4MATIC",
-            "S350 BlueTEC 4MATIC",
-            "S400 Hybrid",
-            "S320 SWB",
-            "S350",
-            "S550 4MATIC",
-            "S55 AMG",
             "S600",
-            "S63 AMG 4MATIC",
-            "S500",
+            "S65 AMG",
+            "S400 Hybrid",
+            "S350",
             "S63 AMG",
-            "S550"
+            "S420",
+            "S500 4MATIC",
+            "S500",
+            "S63 AMG 4MATIC",
+            "S550 4MATIC",
+            "S320 LWB",
+            "S550",
+            "S350 BlueTEC 4MATIC",
+            "S55 AMG",
+            "S320 SWB",
+            "S430"
         ],
         "SL-Class": [
             "SL55 AMG",
-            "SL500",
-            "SL63 AMG",
-            "SL550",
             "SL320",
+            "SL500",
+            "SL550",
             "SL65 AMG",
-            "SL600"
+            "SL600",
+            "SL63 AMG"
         ],
         "SLK-Class": [
-            "SLK55 AMG",
             "SLK230 Kompressor",
-            "SLK250",
-            "SLK280",
-            "SLK300",
-            "SLK320",
             "SLK350",
-            "SLK230"
+            "SLK55 AMG",
+            "SLK280",
+            "SLK230",
+            "SLK250",
+            "SLK320",
+            "SLK300"
         ],
         "SLS AMG": [
             "Base"
@@ -3495,39 +3495,39 @@
             "Base"
         ],
         "Sprinter": [
-            "2500 144 WB Cargo",
-            "2500 144 WB Passenger",
             "2500 170 WB Cargo",
             "3500 170 WB Cargo",
+            "2500 144 WB Passenger",
+            "2500 144 WB Cargo",
             "2500 144 WB Crew",
             "2500 170 WB Passenger"
         ]
     },
     "Mercury": {
         "Cougar": [
-            "V6",
+            "I4",
             "XR7",
             "Base",
-            "I4",
+            "V6",
             "Sport"
         ],
         "Grand Marquis": [
+            "LSE",
             "LS",
-            "GS Convenience",
             "LS Ultimate",
-            "GS",
             "LS Premium",
-            "LSE"
+            "GS Convenience",
+            "GS"
         ],
         "Marauder": [
             "Base"
         ],
         "Mariner": [
-            "Convenience",
-            "V6",
-            "Luxury",
+            "Premier",
             "Base",
-            "Premier"
+            "Luxury",
+            "Convenience",
+            "V6"
         ],
         "Mariner Hybrid": [
             "Base"
@@ -3541,39 +3541,39 @@
         ],
         "Montego": [
             "Premier",
-            "Luxury",
-            "Base"
+            "Base",
+            "Luxury"
         ],
         "Monterey": [
             "Premier",
-            "Convenience",
-            "Luxury"
+            "Luxury",
+            "Convenience"
         ],
         "Mountaineer": [
             "Premier",
-            "Convenience",
+            "Base",
             "Luxury",
-            "Base"
+            "Convenience"
         ],
         "Mystique": [
             "LS"
         ],
         "Sable": [
-            "LS",
-            "GS",
-            "GS Plus",
-            "Base",
             "Premier",
-            "LS Premium"
+            "Base",
+            "LS",
+            "GS Plus",
+            "LS Premium",
+            "GS"
         ],
         "Tracer": [
-            "LS",
-            "Base"
+            "Base",
+            "LS"
         ],
         "Villager": [
-            "Base",
+            "Value",
             "Sport",
-            "Value"
+            "Base"
         ]
     },
     "Mitsubishi": {
@@ -3582,69 +3582,69 @@
         ],
         "Diamante": [
             "VR-X",
-            "LS",
-            "ES"
+            "ES",
+            "LS"
         ],
         "Eclipse": [
+            "SE",
+            "GTS",
             "GT",
             "GS-Sport",
             "RS",
-            "GS",
-            "SE",
-            "GTS"
+            "GS"
         ],
         "Eclipse Spyder": [
-            "GT",
-            "GS-Sport",
             "GS",
-            "GTS"
+            "GS-Sport",
+            "GTS",
+            "GT"
         ],
         "Endeavor": [
+            "SE",
             "XLS",
             "LS",
-            "Limited",
-            "SE"
+            "Limited"
         ],
         "Galant": [
-            "Sport Edition",
-            "LS",
-            "Ralliart V6",
-            "ES V6",
-            "GTS V6",
-            "GTZ",
-            "GTZ V6",
-            "LS V6",
             "SE",
-            "S",
+            "GTS V6",
+            "Sport Edition",
+            "GTZ",
             "ES",
+            "Ralliart V6",
+            "LS V6",
+            "LS",
+            "S",
+            "GTZ V6",
             "Sport V6",
+            "ES V6",
             "DE"
         ],
         "Lancer": [
-            "GT",
-            "LS",
             "ES-Sport",
+            "SE",
+            "GT",
             "O-Z Rally",
             "Ralliart",
-            "DE",
-            "SE",
             "ES",
-            "GTS"
+            "GTS",
+            "LS",
+            "DE"
         ],
         "Lancer Evolution": [
-            "VIII",
+            "SE",
             "GSR",
             "Base",
+            "VIII",
+            "IX",
             "MR",
-            "MR Touring",
-            "SE",
-            "IX"
+            "MR Touring"
         ],
         "Lancer Sportback": [
-            "GT",
-            "Ralliart",
             "ES",
-            "GTS"
+            "Ralliart",
+            "GTS",
+            "GT"
         ],
         "Mirage": [
             "ES",
@@ -3652,34 +3652,34 @@
         ],
         "Montero": [
             "XLS",
+            "Base",
             "LS",
-            "Limited",
-            "Base"
+            "Limited"
         ],
         "Montero Sport": [
-            "XLS",
+            "ES",
             "LS",
-            "Limited",
             "3.5XS",
-            "ES"
+            "XLS",
+            "Limited"
         ],
         "Outlander": [
-            "GT",
-            "XLS",
-            "LS",
-            "Limited",
-            "SE",
-            "ES"
-        ],
-        "Outlander Sport": [
             "SE",
             "ES",
-            "LE"
+            "LS",
+            "GT",
+            "XLS",
+            "Limited"
+        ],
+        "Outlander Sport": [
+            "LE",
+            "SE",
+            "ES"
         ],
         "Raider": [
             "Duro Cross V8",
-            "LS",
-            "Duro Cross V6"
+            "Duro Cross V6",
+            "LS"
         ],
         "i-MiEV": [
             "SE",
@@ -3692,14 +3692,14 @@
             "Base"
         ],
         "300ZX": [
-            "GS",
-            "Base"
+            "Base",
+            "GS"
         ],
         "350Z": [
             "NISMO",
-            "Enthusiast",
             "Base",
-            "Touring"
+            "Touring",
+            "Enthusiast"
         ],
         "370Z": [
             "NISMO",
@@ -3707,111 +3707,111 @@
             "Touring"
         ],
         "Altima": [
-            "XE",
-            "GXE",
-            "3.5 S",
             "2.5",
-            "SE",
-            "XE (1997.5)",
-            "2.5 S",
-            "2.5 SL",
-            "3.5 SR",
-            "3.5 SE",
             "3.5 SL",
             "3.5 SE-R",
+            "SE",
+            "2.5 SL",
             "2.5 SV",
-            "GLE"
+            "3.5 SR",
+            "3.5 SE",
+            "GXE",
+            "XE (1997.5)",
+            "GLE",
+            "2.5 S",
+            "XE",
+            "3.5 S"
         ],
         "Altima Hybrid": [
             "Base"
         ],
         "Armada": [
-            "Platinum",
             "LE",
-            "SL",
             "SV",
             "SE",
             "Titanium",
-            "SE Off-Road"
+            "SE Off-Road",
+            "Platinum",
+            "SL"
         ],
         "Cube": [
-            "1.8 Base",
-            "1.8 S Krom Edition",
-            "1.8 S",
+            "1.8 Krom",
             "1.8 SL",
-            "1.8 Krom"
+            "1.8 S",
+            "1.8 S Krom Edition",
+            "1.8 Base"
         ],
         "Frontier": [
-            "XE-V6",
-            "SE-V6 Dessert Runner",
-            "PRO-4X",
-            "Standard",
-            "SV",
-            "S",
-            "SVE-V6",
-            "SC-V6",
-            "XE",
-            "SE-V6",
             "LE",
-            "Base",
-            "XE Desert Runner",
-            "XE-V6 Dessert Runner",
+            "SE",
+            "PRO-4X",
+            "SC-V6",
+            "SE-V6",
+            "SVE-V6",
+            "S",
             "Nismo",
+            "SV",
+            "XE Desert Runner",
             "SE-V6 Desert Runner",
+            "Base",
+            "XE-V6",
             "SL",
-            "SE"
+            "XE-V6 Dessert Runner",
+            "Standard",
+            "XE",
+            "SE-V6 Dessert Runner"
         ],
         "GT-R": [
-            "Track Edition",
-            "Black Edition",
             "Premium",
-            "Base"
+            "Base",
+            "Black Edition",
+            "Track Edition"
         ],
         "Juke": [
-            "NISMO RS",
             "NISMO",
             "SV",
             "S",
+            "NISMO RS",
             "SL"
         ],
         "Leaf": [
             "SV",
-            "S",
-            "SL"
+            "SL",
+            "S"
         ],
         "Maxima": [
-            "GXE",
-            "3.5 S",
-            "SE 20th Anniversary",
-            "SE",
-            "3.5 SV",
-            "3.5 SE",
             "3.5 SL",
-            "GLE"
+            "SE",
+            "GXE",
+            "3.5 SE",
+            "SE 20th Anniversary",
+            "GLE",
+            "3.5 S",
+            "3.5 SV"
         ],
         "Murano": [
             "LE",
-            "SL",
             "SV",
             "SE",
-            "S"
+            "S",
+            "SL"
         ],
         "Murano CrossCabriolet": [
             "Base"
         ],
         "NV": [
-            "2500 SV",
             "1500 S",
-            "3500 S",
-            "2500 S",
             "3500 SV",
-            "1500 SV"
+            "1500 SV",
+            "2500 SV",
+            "2500 S",
+            "3500 S"
         ],
         "NV Cargo": [
-            "3500 SV",
-            "3500 S",
             "1500 S",
-            "2500 S"
+            "2500 S",
+            "3500 SV",
+            "3500 S"
         ],
         "NV Passenger": [
             "3500 SV"
@@ -3821,97 +3821,97 @@
             "S"
         ],
         "Pathfinder": [
-            "XE",
             "LE",
+            "SV Hybrid",
+            "SE",
             "LE V8",
             "Platinum",
-            "SV Hybrid",
-            "SL",
-            "SV",
-            "SE",
-            "S",
             "(1999.5) XE",
-            "SE Off Road"
+            "SL",
+            "S",
+            "XE",
+            "SE Off Road",
+            "SV"
         ],
         "Quest": [
-            "GXE",
-            "3.5 S",
             "LE",
+            "3.5 SL",
             "SE",
-            "SV",
+            "3.5",
             "SL",
             "3.5 SE",
-            "3.5 SL",
+            "GXE",
+            "GLE",
             "S",
-            "3.5",
-            "GLE"
+            "3.5 S",
+            "SV"
         ],
         "Rogue": [
-            "SL SULEV",
-            "SL",
             "SV",
+            "S Krom Edition",
             "S SULEV",
             "S",
-            "S Krom Edition"
+            "SL SULEV",
+            "SL"
         ],
         "Rogue Select": [
             "S"
         ],
         "Sentra": [
-            "GXE",
-            "1.8",
+            "SE",
             "2.0 SR",
-            "2",
-            "SV",
-            "SE-R Spec V",
+            "SR",
             "S",
-            "XE",
-            "FE+ S",
-            "1.8 S",
-            "SE-R",
+            "2.0 S",
+            "1.8",
+            "SV",
             "Base",
             "2.0 SL",
-            "SR",
+            "2",
             "SL",
-            "SE",
+            "GXE",
+            "SE-R",
+            "FE+ S",
+            "SE-R Spec V",
             "FE+ SV",
-            "2.0 S"
+            "1.8 S",
+            "XE"
         ],
         "Titan": [
-            "XE",
-            "PRO-4X",
             "LE",
-            "SL",
             "SV",
             "SE",
-            "S"
+            "S",
+            "XE",
+            "PRO-4X",
+            "SL"
         ],
         "Truck": [
             "XE",
             "Base"
         ],
         "Versa": [
-            "1.8 S",
             "1.8 SL",
-            "1.6 SV",
-            "1.6 SL",
-            "1.6 S Plus",
             "1.6 Base",
             "1.6",
+            "1.6 S Plus",
+            "1.8 S",
+            "1.6 SV",
+            "1.6 SL",
             "1.6 S"
         ],
         "Versa Note": [
             "1.6 SV"
         ],
         "Xterra": [
-            "XE",
-            "X",
-            "XE V6",
-            "Pro-4X",
-            "Off-Road",
-            "SE S/C",
             "SE",
-            "S"
+            "SE S/C",
+            "XE V6",
+            "X",
+            "S",
+            "Pro-4X",
+            "XE",
+            "Off-Road"
         ]
     },
     "Oldsmobile": {
@@ -3919,12 +3919,12 @@
             "SL"
         ],
         "Alero": [
-            "GX",
             "GLS",
             "GL4",
+            "GL2",
             "GL1",
             "GL",
-            "GL2"
+            "GX"
         ],
         "Aurora": [
             "4",
@@ -3939,30 +3939,30 @@
             "GL"
         ],
         "Cutlass Ciera": [
-            "S",
-            "Base"
+            "Base",
+            "S"
         ],
         "Cutlass Supreme": [
-            "S",
-            "SL"
+            "SL",
+            "S"
         ],
         "Eighty-Eight": [
-            "LS",
-            "Base"
+            "Base",
+            "LS"
         ],
         "Eighty-Eight Royale": [
             "Base"
         ],
         "Intrigue": [
-            "Base",
-            "GX",
             "GLS",
-            "GL"
+            "GL",
+            "Base",
+            "GX"
         ],
         "Silhouette": [
-            "Premiere",
+            "GLS",
             "GL",
-            "GLS"
+            "Premiere"
         ]
     },
     "Plymouth": {
@@ -3982,166 +3982,166 @@
             "Base"
         ],
         "Bonneville": [
+            "SE",
+            "SLE",
             "GXP",
             "SSE",
-            "SSEi",
-            "SE",
-            "SLE"
+            "SSEi"
         ],
         "Firebird": [
-            "Formula",
+            "Trans Am",
             "Base",
-            "Trans Am"
+            "Formula"
         ],
         "G3": [
             "Base"
         ],
         "G5": [
-            "GT",
-            "Base"
+            "Base",
+            "GT"
         ],
         "G6": [
-            "GT",
-            "Base",
-            "Value Leader",
-            "GXP",
+            "Fleet",
             "GTP",
-            "Fleet"
+            "Base",
+            "GXP",
+            "GT",
+            "Value Leader"
         ],
         "G8": [
-            "GT",
+            "Base",
             "GXP",
-            "Base"
+            "GT"
         ],
         "GTO": [
             "Base"
         ],
         "Grand Am": [
-            "SE Fleet",
-            "GT",
+            "SE",
             "SE1",
+            "GT",
             "SE2",
-            "GT1",
-            "SE"
+            "SE Fleet",
+            "GT1"
         ],
         "Grand Prix": [
+            "LE",
+            "SE",
+            "Base",
             "GT",
             "GT2",
-            "LE",
-            "Base",
-            "GTP",
-            "GXP",
             "GT1",
-            "SE"
+            "GXP",
+            "GTP"
         ],
         "Montana": [
-            "SV6",
             "MontanaVision",
-            "Base",
-            "Value"
+            "Value",
+            "SV6",
+            "Base"
         ],
         "Montana SV6": [
             "Base"
         ],
         "Solstice": [
-            "GXP",
-            "Base"
+            "Base",
+            "GXP"
         ],
         "Sunfire": [
-            "GT",
             "SE",
-            "Base"
+            "Base",
+            "GT"
         ],
         "Torrent": [
-            "GXP",
-            "Base"
+            "Base",
+            "GXP"
         ],
         "Vibe": [
-            "GT",
-            "Base"
+            "Base",
+            "GT"
         ]
     },
     "Porsche": {
         "911": [
-            "Carrera S (Midyear Redesign)",
+            "Carrera 4S",
+            "Carrera Black Edition",
             "GT2",
-            "Carrera 4 GTS",
             "Carrera 4",
-            "Turbo",
             "Carrera S",
             "Carrera",
-            "Carrera Black Edition",
+            "Turbo",
+            "Carrera 4 GTS",
             "Turbo S",
-            "Carrera 4S"
+            "Carrera S (Midyear Redesign)"
         ],
         "Boxster": [
-            "S",
             "S Anniversary Edition",
-            "Base"
+            "Base",
+            "S"
         ],
         "Cayenne": [
             "Base",
-            "Diesel",
-            "S Hybrid",
-            "Tiptronic",
             "Turbo",
+            "GTS",
             "S",
-            "Turbo S",
-            "GTS"
+            "Tiptronic",
+            "S Hybrid",
+            "Diesel",
+            "Turbo S"
         ],
         "Cayman": [
-            "S",
             "R",
-            "Base"
+            "Base",
+            "S"
         ],
         "Cayman S": [
             "Base"
         ],
         "Macan": [
-            "S",
-            "Turbo"
+            "Turbo",
+            "S"
         ],
         "Panamera": [
             "S E-Hybrid",
-            "4S",
             "Base",
-            "S Hybrid",
-            "Turbo",
             "4",
+            "Turbo",
+            "GTS",
             "S",
-            "Turbo S",
-            "GTS"
+            "4S",
+            "S Hybrid",
+            "Turbo S"
         ]
     },
     "Ram": {
         "1500": [
+            "Tradesman",
+            "Laramie",
+            "Big Horn",
+            "Laramie Longhorn Edition",
+            "Longhorn",
+            "Sport",
             "ST",
             "R/T",
-            "Sport",
-            "SLT",
-            "Big Horn",
-            "Laramie",
-            "Tradesman",
-            "Longhorn",
-            "Laramie Longhorn Edition"
+            "SLT"
         ],
         "2500": [
-            "Laramie",
             "Tradesman",
+            "Laramie",
             "Power Wagon",
-            "Longhorn",
-            "ST",
+            "SLT",
             "Laramie Longhorn Edition",
-            "SLT"
+            "Longhorn",
+            "ST"
         ],
         "3500": [
-            "Laramie Longhorn",
-            "Laramie",
             "Tradesman",
+            "Laramie",
+            "Laramie Longhorn Edition",
+            "SLT",
             "Laramie Longhorn Limited Edition",
             "ST",
-            "Laramie Longhorn Edition",
-            "SLT"
+            "Laramie Longhorn"
         ],
         "C/V Cargo Van": [
             "Base"
@@ -4170,102 +4170,102 @@
     },
     "Saab": {
         "9-2X": [
-            "Linear",
-            "Aero"
+            "Aero",
+            "Linear"
         ],
         "9-3": [
-            "Aero",
-            "Base",
-            "2.0T",
-            "Linear",
-            "Comfort",
-            "Arc",
-            "SE HO",
-            "2.0T SportCombi",
-            "Aero SportCombi",
             "SE",
-            "Vector"
+            "Arc",
+            "Base",
+            "2.0T SportCombi",
+            "Vector",
+            "Aero SportCombi",
+            "Comfort",
+            "Linear",
+            "Aero",
+            "2.0T",
+            "SE HO"
         ],
         "9-5": [
-            "2.3t",
-            "Aero",
+            "SE",
             "Base",
-            "Arc 2.3T",
-            "Arc 3.0t",
             "Turbo4 Premium",
             "Linear 2.3T",
-            "SE",
-            "SportCombi"
+            "2.3t",
+            "Arc 3.0t",
+            "SportCombi",
+            "Aero",
+            "Arc 2.3T"
         ],
         "9-7X": [
-            "5.3i",
-            "Linear",
+            "4.2i",
             "Arc",
-            "4.2i"
+            "Linear",
+            "5.3i"
         ]
     },
     "Saturn": {
         "Astra": [
-            "XR",
-            "XE"
+            "XE",
+            "XR"
         ],
         "Aura": [
-            "XR",
-            "XE"
+            "XE",
+            "XR"
         ],
         "Aura Hybrid": [
             "Green Line",
             "Base"
         ],
         "ION": [
-            "Red Line",
-            "1",
             "3",
-            "2"
-        ],
-        "L-Series": [
-            "LS2",
-            "LW200",
-            "L100",
-            "L200",
-            "LW2",
-            "LS1",
-            "L300",
-            "LW300"
-        ],
-        "L300": [
-            "Base",
             "2",
             "1",
-            "3"
+            "Red Line"
+        ],
+        "L-Series": [
+            "LW300",
+            "L300",
+            "LW2",
+            "LS1",
+            "L200",
+            "LW200",
+            "L100",
+            "LS2"
+        ],
+        "L300": [
+            "2",
+            "3",
+            "Base",
+            "1"
         ],
         "Outlook": [
             "XE",
             "XR"
         ],
         "Relay": [
+            "3",
             "2",
-            "1",
-            "3"
+            "1"
         ],
         "S-Series": [
-            "SL1",
-            "SC1",
-            "SW2",
-            "SL",
-            "SW1",
             "SL2",
-            "SC2"
+            "SW2",
+            "SL1",
+            "SC2",
+            "SL",
+            "SC1",
+            "SW1"
         ],
         "Sky": [
-            "Red Line",
-            "Base"
-        ],
-        "VUE": [
-            "XR",
-            "XE",
             "Base",
             "Red Line"
+        ],
+        "VUE": [
+            "Red Line",
+            "XE",
+            "XR",
+            "Base"
         ],
         "VUE Hybrid": [
             "Base"
@@ -4279,8 +4279,8 @@
             "Base"
         ],
         "tC": [
-            "Spec",
-            "Base"
+            "Base",
+            "Spec"
         ],
         "xA": [
             "Base"
@@ -4294,159 +4294,159 @@
     },
     "Subaru": {
         "B9 Tribeca": [
-            "Limited 7-Passenger",
             "5-Passenger",
-            "Limited 5-Passenger"
+            "Limited 5-Passenger",
+            "Limited 7-Passenger"
         ],
         "BRZ": [
-            "Limited",
-            "Premium"
+            "Premium",
+            "Limited"
         ],
         "Baja": [
-            "Sport",
             "Turbo",
+            "Sport",
             "Base"
         ],
         "Forester": [
+            "2.0XT Touring",
             "2.5X Touring",
-            "2.5XT Touring",
+            "2.5 X Premium Package",
+            "2.5X Limited PZEV",
+            "2.5 X",
+            "2.5XT Premium",
+            "2.5i Limited PZEV",
+            "2.5X Premium PZEV",
+            "S",
+            "2.5X Touring PZEV",
+            "2.5X",
+            "Sports 2.5 X",
+            "2.5X Premium",
             "2.5i Premium PZEV",
             "2.5X Limited",
-            "2.5i PZEV",
-            "2.0XT Touring",
-            "2.0XT Premium",
-            "2.5X Premium",
-            "2.5 X Premium Package",
-            "2.5 X",
-            "2.5i Limited PZEV",
-            "S",
             "2.5XT",
-            "2.5X",
             "2.5i Touring PZEV",
-            "2.5XT Premium",
-            "2.5X Touring PZEV",
-            "Sports 2.5 X",
-            "2.5X PZEV",
+            "2.5i PZEV",
             "2.5XT Limited",
-            "2.5X Limited PZEV",
+            "2.5 X L.L.Bean Edition",
             "L",
-            "2.5X Premium PZEV",
-            "2.5 X L.L.Bean Edition"
+            "2.5XT Touring",
+            "2.0XT Premium",
+            "2.5X PZEV"
         ],
         "Impreza": [
-            "2.5 i",
-            "2.0i Limited PZEV",
-            "2.5",
-            "Outback",
-            "2.0i PZEV",
-            "2.5i",
-            "2.5 TS",
-            "WRX STi",
             "Outback Sport",
+            "2.5",
+            "WRX Premium",
+            "2.5 i",
             "2.0i Sport Premium PZEV",
-            "RS",
-            "TS",
-            "WRX",
-            "2.5 RS",
-            "Outback Sport Special Edition",
+            "WRX STi",
+            "2.5 TS",
             "WRX Limited",
-            "2.0i Premium PZEV",
-            "2.5i Premium",
-            "L",
-            "WRX STI Limited",
+            "Outback Sport Special Edition",
+            "2.5 RS",
             "WRX TR",
             "2.0i Sport Limited PZEV",
-            "WRX Premium",
+            "WRX STI",
+            "2.0i Limited PZEV",
+            "2.0i PZEV",
+            "Outback",
+            "WRX STI Limited",
+            "TS",
+            "L",
             "2.0i",
-            "WRX STI"
+            "2.5i Premium",
+            "2.5i",
+            "2.0i Premium PZEV",
+            "WRX",
+            "RS"
         ],
         "Impreza WRX": [
-            "STI Limited",
-            "STI",
-            "Base",
-            "Premium"
-        ],
-        "Legacy": [
-            "GT",
-            "2.5i Sport PZEV",
-            "2.5i Premium PZEV",
-            "2.5i PZEV",
-            "2.5 GT Limited",
-            "Outback",
-            "3.0 R Limited",
-            "GT Limited",
-            "3.6R Premium",
-            "2.5i Limited PZEV",
-            "2.5i",
-            "2.5 GT",
-            "L 35th Anniversary Edition",
-            "2.5 I",
-            "2.5GT Limited",
-            "2.5i Sport",
-            "LSi",
-            "2.5 I Limited",
-            "3.6R Limited",
-            "2.5i Premium",
-            "2.5i Limited",
-            "L",
-            "2.5i Special Edition",
-            "Outback Limited"
-        ],
-        "Outback": [
-            "H6-3.0 L.L. Bean Edition",
-            "2.5I Limited",
-            "3.0R Limited",
-            "2.5i Premium PZEV",
-            "2.5i PZEV",
-            "2.5 XT Limited",
-            "2.5i Limited PZEV",
-            "3.0 R VDC Limited",
-            "2.5i",
-            "H6-3.0 35th Anniversary Edition",
-            "VDC",
-            "3.0 R L.L.Bean Edition",
-            "3.0 R",
-            "2.5I",
-            "L.L. Bean Edition",
-            "Limited",
-            "Base",
-            "3.6R Limited",
-            "2.5 XT",
-            "2.5i Premium",
-            "2.5i Limited",
-            "2.5i Special Edition"
-        ],
-        "Tribeca": [
-            "Limited 5-Passenger",
-            "7-Passenger",
-            "Limited 7-Passenger",
-            "3.6R Touring",
-            "3.6R Premium",
-            "3.6R Limited"
-        ],
-        "WRX": [
-            "Limited",
-            "STI Launch Edition",
-            "STI",
-            "Base",
             "Premium",
+            "STI",
+            "Base",
             "STI Limited"
         ],
+        "Legacy": [
+            "L 35th Anniversary Edition",
+            "GT",
+            "2.5i Sport PZEV",
+            "GT Limited",
+            "2.5 GT",
+            "2.5i Sport",
+            "2.5i Limited PZEV",
+            "2.5 GT Limited",
+            "2.5GT Limited",
+            "2.5i Premium",
+            "Outback Limited",
+            "2.5 I",
+            "2.5i Premium PZEV",
+            "Outback",
+            "2.5i Special Edition",
+            "2.5i PZEV",
+            "3.6R Limited",
+            "LSi",
+            "3.0 R Limited",
+            "2.5i Limited",
+            "L",
+            "3.6R Premium",
+            "2.5i",
+            "2.5 I Limited"
+        ],
+        "Outback": [
+            "H6-3.0 35th Anniversary Edition",
+            "3.0 R",
+            "3.0R Limited",
+            "H6-3.0 L.L. Bean Edition",
+            "2.5I",
+            "2.5i Limited PZEV",
+            "2.5I Limited",
+            "3.0 R L.L.Bean Edition",
+            "VDC",
+            "Limited",
+            "2.5i Premium PZEV",
+            "Base",
+            "3.0 R VDC Limited",
+            "2.5i Special Edition",
+            "2.5 XT Limited",
+            "2.5i PZEV",
+            "3.6R Limited",
+            "2.5i Limited",
+            "2.5i Premium",
+            "2.5i",
+            "2.5 XT",
+            "L.L. Bean Edition"
+        ],
+        "Tribeca": [
+            "3.6R Limited",
+            "Limited 7-Passenger",
+            "3.6R Premium",
+            "3.6R Touring",
+            "Limited 5-Passenger",
+            "7-Passenger"
+        ],
+        "WRX": [
+            "Premium",
+            "Base",
+            "STI",
+            "STI Launch Edition",
+            "STI Limited",
+            "Limited"
+        ],
         "XV Crosstrek": [
+            "Premium",
             "Hybrid Touring",
             "Hybrid",
-            "Limited",
-            "Premium"
+            "Limited"
         ]
     },
     "Suzuki": {
         "Aerio": [
-            "SX",
-            "LX",
             "Premium",
             "Base",
-            "GS",
-            "SX Premium"
+            "LX",
+            "SX Premium",
+            "SX",
+            "GS"
         ],
         "Equator": [
             "Sport"
@@ -4456,159 +4456,159 @@
             "GL"
         ],
         "Forenza": [
-            "LX",
             "Premium",
             "Base",
+            "LX",
             "S",
             "EX"
         ],
         "Grand Vitara": [
-            "Luxury",
-            "Limited",
-            "JLX",
-            "XSport",
+            "Premium",
             "Base",
+            "Luxury",
             "JLS",
             "Ultimate Adventure",
+            "XSport",
+            "JLX",
             "LX",
-            "Premium"
+            "Limited"
         ],
         "Kizashi": [
-            "Sport SLS",
-            "Sport GTS",
             "SE",
+            "GTS",
             "S",
             "SLS",
-            "GTS"
+            "Sport SLS",
+            "Sport GTS"
         ],
         "Reno": [
-            "LX",
             "Base",
-            "EX"
+            "EX",
+            "LX"
         ],
         "SX4": [
-            "SportBack GTS",
-            "LE Popular Package",
             "LE",
-            "Base",
-            "SportBack Technology",
             "Crossover",
-            "SportBack",
-            "Sport SE",
-            "Sport",
+            "Base",
             "Sport S",
-            "Sport GTS"
+            "Sport SE",
+            "SportBack Technology",
+            "Sport GTS",
+            "Sport",
+            "SportBack",
+            "SportBack GTS",
+            "LE Popular Package"
         ],
         "Sidekick": [
             "Sport JLX"
         ],
         "Verona": [
-            "LX",
-            "Luxury",
             "Base",
+            "Luxury",
+            "LX",
             "S",
             "EX"
         ],
         "Vitara": [
-            "LX",
+            "JLS",
             "JLX",
-            "JLS"
+            "LX"
         ],
         "XL-7": [
-            "LX",
-            "Limited",
             "Base",
+            "LX",
             "EX",
-            "Touring"
+            "Touring",
+            "Limited"
         ],
         "XL7": [
-            "Limited",
-            "Luxury",
             "Premium",
-            "Base"
+            "Base",
+            "Luxury",
+            "Limited"
         ]
     },
     "Tesla": {
         "Model S": [
             "Performance",
-            "85",
             "Base",
-            "60"
+            "60",
+            "85"
         ]
     },
     "Toyota": {
         "4Runner": [
-            "Sport Edition",
             "Limited",
             "SR5 V6",
             "Base",
-            "SR5",
-            "Trail"
+            "Trail",
+            "Sport Edition",
+            "SR5"
         ],
         "Avalon": [
-            "Limited",
-            "XLE",
             "Base",
-            "XLE Touring",
+            "XLE",
             "XLE Touring SE",
-            "XL",
+            "XLE Touring",
             "XLS",
-            "Touring"
+            "XL",
+            "Touring",
+            "Limited"
         ],
         "Avalon Hybrid": [
             "XLE Premium",
             "Limited"
         ],
         "Camry": [
-            "XLE",
             "LE",
-            "Base",
-            "Deluxe",
-            "XSE",
-            "CE",
-            "SE V6",
-            "LE V6",
-            "SE Sport",
-            "L",
             "XLE V6",
             "SE",
+            "CE",
+            "Base",
+            "XLE",
+            "SE Sport",
+            "SE V6",
+            "LE V6",
+            "XSE",
+            "L",
+            "Deluxe",
             "DX"
         ],
         "Camry Hybrid": [
-            "SE",
-            "XLE",
             "LE",
-            "Base"
+            "SE",
+            "Base",
+            "XLE"
         ],
         "Camry Solara": [
-            "SLE V6",
-            "SE V6",
             "SE",
+            "SE V6",
             "SLE",
-            "Sport V6"
+            "Sport V6",
+            "SLE V6"
         ],
         "Celica": [
-            "GT",
             "ST",
             "GT-S",
-            "GTS"
+            "GTS",
+            "GT"
         ],
         "Corolla": [
-            "LE Eco",
-            "S Special Edition",
-            "S Premium",
-            "XLE",
             "LE",
-            "Base",
-            "VE",
-            "LE Plus",
             "CE",
-            "XRS",
+            "S Special Edition",
+            "Base",
+            "XLE",
+            "S Plus",
+            "LE Eco",
+            "VE",
             "L",
-            "Deluxe",
             "S",
-            "DX",
-            "S Plus"
+            "Deluxe",
+            "LE Plus",
+            "S Premium",
+            "XRS",
+            "DX"
         ],
         "ECHO": [
             "Base"
@@ -4617,19 +4617,19 @@
             "Base"
         ],
         "Highlander": [
-            "Limited",
-            "XLE",
+            "LE",
+            "SE",
             "Plus",
             "Base",
-            "LE",
-            "LE Plus",
+            "XLE",
             "Sport",
+            "LE Plus",
             "V6",
-            "SE"
+            "Limited"
         ],
         "Highlander Hybrid": [
-            "Limited",
-            "Base"
+            "Base",
+            "Limited"
         ],
         "Land Cruiser": [
             "Base"
@@ -4639,8 +4639,8 @@
         ],
         "Matrix": [
             "Base",
-            "L",
             "XR",
+            "L",
             "S",
             "XRS"
         ],
@@ -4648,214 +4648,214 @@
             "Base"
         ],
         "Pickup": [
-            "Deluxe",
             "DX V6",
-            "Base"
+            "Base",
+            "Deluxe"
         ],
         "Prius": [
-            "III",
             "Base",
-            "II",
             "IV",
-            "V",
-            "Two",
-            "One",
+            "III",
+            "Touring",
             "I",
+            "One",
+            "Two",
+            "II",
             "Three",
-            "Touring"
+            "V"
         ],
         "Prius Plug-in": [
-            "Advanced",
-            "Base"
+            "Base",
+            "Advanced"
         ],
         "Prius c": [
-            "Two",
-            "One"
+            "One",
+            "Two"
         ],
         "Prius v": [
             "Three",
             "Five"
         ],
         "RAV4": [
-            "Limited",
-            "XLE",
             "LE",
             "Base",
-            "Sport"
+            "XLE",
+            "Sport",
+            "Limited"
         ],
         "Sequoia": [
-            "Platinum",
             "Limited",
-            "Platinum FFV",
-            "SR5",
+            "Limited FFV",
             "SR5 FFV",
-            "Limited FFV"
+            "Platinum",
+            "Platinum FFV",
+            "SR5"
         ],
         "Sienna": [
             "XLE Limited 7-Passenger",
-            "L 7-Passenger",
             "LE",
-            "XLE",
-            "XLE 8-Passenger",
-            "LE 7-Passenger Mobility Auto Access",
-            "Base 7-Passenger",
-            "Limited 7-Passenger",
             "CE",
             "LE 8-Passenger",
-            "CE 7-Passenger",
+            "XLE",
+            "LE 7-Passenger",
             "SE 8-Passenger",
+            "L 7-Passenger",
+            "CE 7-Passenger",
+            "Limited 7-Passenger",
+            "XLE 8-Passenger",
+            "Base 7-Passenger",
             "XLE 7-Passenger",
-            "LE 7-Passenger"
+            "LE 7-Passenger Mobility Auto Access"
         ],
         "T100": [
             "DX",
             "SR5"
         ],
         "Tacoma": [
+            "X-Runner V6",
+            "PreRunner",
+            "Base",
             "PreRunner V6",
             "TRD PRO",
-            "X-Runner V6",
-            "Base",
-            "PreRunner",
-            "V6",
             "SR5",
+            "V6",
             "Prerunner"
         ],
         "Tercel": [
             "CE",
-            "DX",
-            "Base"
+            "Base",
+            "DX"
         ],
         "Tundra": [
-            "SR FFV",
-            "Limited",
-            "Platinum FFV",
+            "Tundra",
             "Base",
-            "Tundra Grade",
-            "1794 FFV",
             "SR5 FFV",
-            "Limited FFV",
-            "Platinum",
-            "1794",
-            "SR",
             "Tundra FFV",
+            "Platinum",
+            "SR FFV",
             "SR5",
-            "Tundra"
+            "1794 FFV",
+            "Tundra Grade",
+            "Limited FFV",
+            "SR",
+            "Platinum FFV",
+            "1794",
+            "Limited"
         ],
         "Venza": [
-            "Limited",
-            "XLE",
             "LE",
-            "Base"
+            "Base",
+            "XLE",
+            "Limited"
         ],
         "Yaris": [
             "LE",
+            "Fleet",
+            "SE",
             "Base",
             "L",
-            "SE",
-            "S",
-            "Fleet"
+            "S"
         ]
     },
     "Volkswagen": {
         "Beetle": [
-            "2.0L TDI",
+            "2.0T White Turbo Launch Edition PZEV",
             "Base",
             "Turbo Fender Edition",
+            "R-Line",
             "R-Line PZEV",
             "2.0T Turbo PZEV",
-            "R-Line",
-            "2.5L",
-            "Turbo",
-            "2.0T White Turbo Launch Edition PZEV",
             "1.8T",
+            "2.5L",
             "Turbo PZEV Fender Edition",
-            "2.0T Turbo",
             "1.8T Classic",
-            "2.0T White Turbo Launch Edition",
-            "2.5L PZEV"
+            "2.5L PZEV",
+            "2.0L TDI",
+            "Turbo",
+            "2.0T Turbo",
+            "2.0T White Turbo Launch Edition"
         ],
         "Beetle Convertible": [
-            "Turbo 60's Edition",
-            "R-Line PZEV",
             "R-Line",
-            "2.5L",
+            "R-Line PZEV",
             "1.8T",
+            "2.5L",
             "Turbo PZEV",
-            "TDI",
-            "2.5L PZEV"
+            "2.5L PZEV",
+            "Turbo 60's Edition",
+            "TDI"
         ],
         "CC": [
-            "Sport PZEV",
-            "VR6 Lux",
-            "Luxury",
-            "Lux PZEV",
-            "R-Line PZEV",
-            "R-Line",
-            "Sport",
             "Executive PZEV",
-            "VR6 4Motion Executive",
-            "Luxury PZEV",
-            "Lux Limited PZEV",
+            "Lux PZEV",
             "VR6 4Motion",
+            "Luxury",
+            "R-Line",
+            "R-Line PZEV",
+            "VR6 Lux",
             "Lux",
+            "Sport",
             "Lux Limited",
-            "VR6 Sport"
+            "Luxury PZEV",
+            "Sport PZEV",
+            "VR6 Sport",
+            "VR6 4Motion Executive",
+            "Lux Limited PZEV"
         ],
         "Cabrio": [
-            "GLX",
-            "GLS",
             "GL (1999.5)",
+            "GLS",
             "GLS (1999.5)",
-            "GL"
+            "GL",
+            "GLX"
         ],
         "Eos": [
-            "3.2L",
             "Base",
-            "2.0T",
-            "Turbo",
-            "Lux SULEV",
             "VR6",
             "Executive SULEV",
-            "Komfort",
             "Lux",
+            "Komfort",
+            "Turbo",
+            "3.2L",
             "Sport SULEV",
-            "Komfort SULEV"
+            "Komfort SULEV",
+            "2.0T",
+            "Lux SULEV"
         ],
         "EuroVan": [
             "MV",
             "GLS"
         ],
         "GLI": [
-            "Autobahn",
             "Autobahn PZEV",
-            "Base"
+            "Base",
+            "Autobahn"
         ],
         "GTI": [
             "Base",
             "Autobahn",
-            "20th Anniversary Edition",
-            "1.8T",
             "Driver's Edition PZEV",
+            "1.8T",
             "Wolfsburg Edition",
             "VR6",
-            "PZEV",
             "GLX VR6",
+            "20th Anniversary Edition",
+            "PZEV",
             "Autobahn PZEV",
             "GLS 1.8T"
         ],
         "Golf": [
-            "2.0L TDI",
+            "TSI SE",
+            "GLS TDI",
+            "GLS (1999.5)",
             "TSI S",
             "2.5L",
-            "GL",
-            "GLS TDI",
-            "TSI SE",
+            "2.5L PZEV",
+            "2.0L TDI",
             "GLS",
+            "GL",
             "TDI",
-            "GLS (1999.5)",
-            "GLS 1.8T",
-            "2.5L PZEV"
+            "GLS 1.8T"
         ],
         "Golf GTI": [
             "SE",
@@ -4866,135 +4866,135 @@
             "Base"
         ],
         "Jetta": [
-            "SEL",
-            "GLI VR6",
-            "SEL PZEV",
-            "GLI",
-            "GLS TDI",
-            "Value Edition",
-            "S",
-            "Wolfsburg Edition PZEV",
-            "TDI Loyal Edition",
-            "GL TDI",
-            "SE PZEV",
-            "Base",
-            "2.0T",
-            "SportWagen SE",
-            "Wolfsburg Edition",
-            "Limited Edition PZEV",
-            "GLS",
-            "GLX VR6",
-            "SE",
-            "TDI",
-            "GLS 1.8T",
-            "GT",
-            "Base PZEV",
-            "GL PZEV",
             "2.5",
-            "SportWagen S PZEV",
-            "GL",
-            "GLS Wolfsburg Edition 1.8T",
-            "Value Edition PZEV",
-            "S PZEV",
-            "GLX VR6 (1999.5)",
-            "2.5 PZEV",
-            "SportWagen S",
-            "GL (1999.5)",
-            "GLS VR6 (1999.5)",
             "Limited Edition",
             "GLS VR6",
-            "TDI Cup Edition",
+            "Value Edition PZEV",
+            "GLX VR6",
+            "SEL PZEV",
+            "SE PZEV",
+            "GT",
+            "GLS Wolfsburg Edition 1.8T",
+            "GL",
+            "TDI Loyal Edition",
+            "SportWagen S PZEV",
             "GLI 1.8T",
+            "Base",
+            "SEL",
+            "SportWagen SE PZEV",
+            "GLS TDI",
+            "Wolfsburg Edition",
+            "GLS VR6 (1999.5)",
+            "2.0T",
             "SportWagen TDI",
-            "Wolfsburg",
+            "GLX VR6 (1999.5)",
+            "GLI",
+            "SE",
+            "Base PZEV",
+            "S PZEV",
+            "2.5 PZEV",
             "GLS (1999.5)",
+            "GL (1999.5)",
+            "GLS",
+            "S",
+            "SportWagen S",
+            "GL TDI",
+            "Limited Edition PZEV",
+            "TDI",
             "GLS PZEV",
-            "SportWagen SE PZEV"
+            "SportWagen SE",
+            "Value Edition",
+            "GLI VR6",
+            "Wolfsburg",
+            "Wolfsburg Edition PZEV",
+            "TDI Cup Edition",
+            "GL PZEV",
+            "GLS 1.8T"
         ],
         "Jetta GLI": [
             "Edition 30 PZEV",
-            "Autobahn",
             "Autobahn PZEV",
-            "Base"
+            "Base",
+            "Autobahn"
         ],
         "Jetta Hybrid": [
-            "SEL",
-            "Base"
+            "Base",
+            "SEL"
         ],
         "Jetta SportWagen": [
             "S",
             "SE",
-            "TDI",
-            "S PZEV"
+            "S PZEV",
+            "TDI"
         ],
         "New Beetle": [
-            "Dark Flint Edition",
             "2.5",
-            "2.5L",
-            "GL",
-            "GLS TDI",
-            "GLX 1.8T",
-            "S PZEV",
-            "GL 1.8T",
-            "S",
-            "Turbo S",
-            "GL TDI",
-            "2.5 PZEV",
-            "2.5L Red Rock Edition PZEV",
-            "SE PZEV",
-            "Base",
-            "Bi-Color Edition",
-            "Triple White PZEV",
-            "2.5L Final Edition PZEV",
-            "Triple White",
-            "Sport",
-            "2.5L Red Rock Edition",
-            "GLS",
             "2.5L Blush Edition",
+            "2.5L Red Rock Edition PZEV",
             "SE",
-            "TDI",
+            "S PZEV",
+            "2.5 PZEV",
+            "Dark Flint Edition",
             "Black Tie Edition",
-            "GLS 1.8T",
-            "2.5L PZEV"
+            "SE PZEV",
+            "GL 1.8T",
+            "2.5L",
+            "Sport",
+            "2.5L PZEV",
+            "GLS",
+            "S",
+            "GL TDI",
+            "2.5L Final Edition PZEV",
+            "GL",
+            "Turbo S",
+            "GLX 1.8T",
+            "Triple White PZEV",
+            "TDI",
+            "Base",
+            "GLS TDI",
+            "2.5L Red Rock Edition",
+            "Triple White",
+            "Bi-Color Edition",
+            "GLS 1.8T"
         ],
         "Passat": [
-            "SEL",
-            "SEL PZEV",
-            "GLX V6 4Motion",
-            "GLS TDI",
-            "VR6",
-            "V6 SE",
-            "TDI SEL Premium",
-            "VR6 4Motion",
-            "S",
-            "Wolfsburg Edition PZEV",
-            "V6 SEL Premium",
-            "SE PZEV",
-            "Base",
-            "2.0T",
-            "3.6 4Motion",
-            "GLX 4Motion",
-            "GLS 1.8T 4Motion",
-            "Wolfsburg Edition",
-            "Komfort",
-            "SEL Premium",
-            "SE",
-            "GLS 1.8T",
-            "GLX",
-            "GL",
-            "GLS V6 4Motion",
-            "TDI SE",
-            "S PZEV",
-            "GL 1.8T",
-            "GLS V6",
             "Komfort PZEV",
-            "SEL Premium PZEV",
+            "VR6 4Motion",
+            "3.6 4Motion",
             "Limited Edition",
+            "VR6",
+            "SE PZEV",
+            "SEL PZEV",
+            "Lux",
+            "SEL Premium",
+            "Komfort",
             "Turbo",
+            "TDI SEL Premium",
+            "TDI SE",
+            "GL",
+            "Base",
+            "SEL",
+            "GLS TDI",
+            "Wolfsburg Edition",
+            "GLX V6",
+            "GLS V6",
+            "V6 SEL Premium",
+            "GLX V6 4Motion",
+            "2.0T",
+            "SE",
+            "S PZEV",
+            "V6 SE",
+            "SEL Premium PZEV",
+            "GL 1.8T",
+            "GLS 1.8T 4Motion",
+            "S",
+            "GLX",
+            "GLS V6 4Motion",
+            "GLX 4Motion",
+            "Wolfsburg Edition PZEV",
             "W8 4Motion",
             "3.6",
-            "Lux",
-            "GLX V6"
+            "GLS 1.8T"
         ],
         "Phaeton": [
             "V8"
@@ -5004,54 +5004,54 @@
         ],
         "Rabbit": [
             "S",
+            "PZEV",
             "S PZEV",
-            "Base",
-            "PZEV"
+            "Base"
         ],
         "Routan": [
             "SE",
-            "S",
+            "SEL Premium",
             "SEL",
-            "SEL Premium"
+            "S"
         ],
         "Tiguan": [
-            "SEL",
-            "Wolfsburg Edition 4Motion",
-            "SE 4Motion",
             "LE",
+            "SE",
+            "SEL",
             "S 4Motion",
+            "SE 4Motion",
             "R-Line",
-            "SEL 4Motion",
             "S",
-            "SE"
+            "SEL 4Motion",
+            "Wolfsburg Edition 4Motion"
         ],
         "Touareg": [
+            "V10 TDI",
+            "V6 R-Line",
+            "TDI Lux",
             "V6 TDI",
             "VR6 Lux",
-            "V10 TDI",
-            "X Special Edition",
-            "TDI Lux",
-            "V6",
-            "V8",
-            "TDI Executive",
-            "VR6 FSI",
-            "V6 R-Line",
             "TDI Sport",
+            "X Special Edition",
+            "TDI Executive",
             "V6 Executive",
+            "VR6 Sport",
             "VR6 Executive",
-            "VR6 Sport"
+            "VR6 FSI",
+            "V6",
+            "V8"
         ],
         "Touareg 2": [
-            "V6 TDI",
             "V8 FSI",
-            "VR6 FSI"
+            "VR6 FSI",
+            "V6 TDI"
         ]
     },
     "Volvo": {
         "850": [
-            "GLT",
             "GLTS",
-            "Base"
+            "Base",
+            "GLT"
         ],
         "940": [
             "Level I"
@@ -5060,49 +5060,49 @@
             "Base"
         ],
         "C30": [
-            "R-Design",
             "T5 R-Design",
+            "T5",
             "T5 Version 1.0",
-            "T5"
+            "R-Design"
         ],
         "C70": [
-            "HT",
+            "T5",
+            "LPT",
             "LT",
             "HPT",
-            "LPT",
-            "T5"
+            "HT"
         ],
         "S40": [
-            "Base",
             "T5 R-Design",
             "T5",
-            "2.4i"
-        ],
-        "S60": [
-            "2.5T",
-            "T5 Drive-E",
-            "T6 R-Design",
-            "T5 Special Edition",
-            "T6",
-            "2.4",
-            "2.4T",
-            "R",
-            "T5"
-        ],
-        "S70": [
-            "GLT",
-            "T5",
-            "GLT SE",
+            "2.4i",
             "Base"
         ],
-        "S80": [
-            "2.5T",
+        "S60": [
+            "T5 Special Edition",
             "T5 Drive-E",
-            "V8",
+            "2.4",
+            "T6",
+            "2.4T",
+            "T5",
+            "R",
+            "2.5T",
+            "T6 R-Design"
+        ],
+        "S70": [
+            "T5",
+            "GLT SE",
+            "Base",
+            "GLT"
+        ],
+        "S80": [
             "T6 Elite",
-            "3.2",
             "2.9",
-            "T6"
+            "T5 Drive-E",
+            "2.5T",
+            "3.2",
+            "T6",
+            "V8"
         ],
         "S90": [
             "Base"
@@ -5111,66 +5111,66 @@
             "Base"
         ],
         "V50": [
-            "T5",
             "T5 R-Design",
+            "T5",
             "2.4i"
         ],
         "V60": [
-            "T5 Drive-E",
-            "T5"
+            "T5",
+            "T5 Drive-E"
         ],
         "V70": [
-            "2.5T",
+            "SE",
             "Base",
-            "3.2",
-            "XC",
-            "2.4M",
             "GLT",
             "2.4",
             "2.4T",
-            "SE",
+            "T5",
             "R",
-            "T5"
+            "XC",
+            "2.5T",
+            "2.4M",
+            "3.2"
         ],
         "XC": [
             "Base"
         ],
         "XC60": [
-            "T5 Premier",
-            "3.2 R-Design",
-            "T6 R-Design",
             "3.2",
+            "T6 R-Design",
+            "3.2 R-Design",
             "3.2 Premier Plus",
-            "T5 Drive-E Premier",
-            "T6"
+            "T6",
+            "T5 Premier",
+            "T5 Drive-E Premier"
         ],
         "XC70": [
-            "3.2",
             "T6",
-            "Base"
+            "Base",
+            "3.2"
         ],
         "XC90": [
-            "2.5T",
             "V8 Sport",
-            "V8",
-            "3.2 R-Design",
+            "2.5T",
             "3.2",
+            "3.2 R-Design",
             "T6",
-            "3.2 Special Edition"
+            "3.2 Special Edition",
+            "V8"
         ]
     },
     "smart": {
         "fortwo": [
-            "electric drive cabriolet",
-            "passion cabriolet",
-            "electric drive coupe",
             "BRABUS coupe",
-            "pure coupe",
-            "pure",
-            "passion coupe",
-            "BRABUS cabriolet",
+            "electric drive cabriolet",
             "passion",
-            "passion cabrio"
+            "passion cabriolet",
+            "BRABUS cabriolet",
+            "passion cabrio",
+            "electric drive coupe",
+            "pure",
+            "pure coupe",
+            "passion coupe"
         ]
     }
 }
