@@ -1,12 +1,36 @@
 from datetime import datetime
+from pathlib import Path
+
 import pandas as pd
 import json
 import requests
 import streamlit as st
 from autogluon.tabular import TabularDataset, TabularPredictor
+import os
+
+# Path to the directory containing subfolders
+models_dir = Path('data/06_models')
+
+# Get a list of subfolder names
+subfolders = [subfolder.name for subfolder in models_dir.iterdir() if subfolder.is_dir()]
+
+# Allow the user to choose a subfolder
+selected_subfolder = st.sidebar.selectbox('Select model:', subfolders)
+
+selected_subfolder_path = models_dir / selected_subfolder
 
 # Load the trained predictor
-predictor = TabularPredictor.load("AutogluonModels/ag-20240430_144147")
+predictor = TabularPredictor.load(selected_subfolder_path)
+
+st.sidebar.markdown("# Model Metrics")
+metrics_file = os.path.join(selected_subfolder_path, "metrics.txt")
+with open(metrics_file, 'r') as file:
+    st.sidebar.json(json.load(file))
+
+# Display selected model information
+st.sidebar.markdown("# Model Details")
+st.sidebar.json(predictor.info()["model_info"][predictor.info()["best_model"]])
+
 
 # Function to read and process the make-model-trim mapping from a JSON file
 def read_make_model_trim_mapping_from_json(file_name):
@@ -22,10 +46,11 @@ def read_values_from_txt(file_name):
         values = file.read().splitlines()
     return values
 
+
 # Load mappings and color values
-mapping = read_make_model_trim_mapping_from_json("make_model_trim.txt")
-interior_values = read_values_from_txt("interior_values.txt")
-color_values = read_values_from_txt("color_values.txt")
+mapping = read_make_model_trim_mapping_from_json("data/03_primary/car_mapping.json")
+interior_values = read_values_from_txt("data/03_primary/interior.csv")
+color_values = read_values_from_txt("data/03_primary/colors.csv")
 
 # Streamlit UI components for user input
 st.title("Car Data Input Form")
@@ -98,7 +123,7 @@ def predict_car_price():
     df = pd.DataFrame(input_data)
     tabular_data = TabularDataset(df)
     result = predictor.predict(tabular_data)
-    st.write(f"Predicted Price: ${result.values[0]:.2f} USD")
+    st.write(f"# Predicted Price: ${result.values[0]:.2f} USD")
 
 # Add button to trigger the price prediction
 if st.button('Predict Price'):
