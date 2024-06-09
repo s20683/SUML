@@ -1,0 +1,1 @@
+{"root_mean_squared_error": -2233.102050312835, "mean_squared_error": -4986744.767111388, "mean_absolute_error": -1304.6750550209053, "r2": 0.945134262555659, "pearsonr": 0.972262157554747, "median_absolute_error": -869.712890625}
