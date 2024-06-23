@@ -59,11 +59,6 @@ transmission:
   type: pandas.CSVDataset
   filepath: data/03_primary/transmission.csv
 
-#regressor:
-#  type: pickle.PickleDataset
-#  filepath: data/06_models/regressor.pickle
-#  versioned: true
-
 performance_report:
   type: json.JSONDataset
   filepath: data/08_reporting/performance_report.json

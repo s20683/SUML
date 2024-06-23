@@ -2,18 +2,17 @@
 
 ## Overview
 
-This is your new Kedro project with Kedro-Viz setup, which was generated using `kedro 0.19.6`.
+This Kedro project is designed to predict the value of used cars using machine learning models. The project utilizes the Kedro framework for pipeline orchestration and AutoGluon for model training and evaluation.
 
-Take a look at the [Kedro documentation](https://docs.kedro.org) to get started.
-
-## Rules and guidelines
+## Rules and Guidelines
 
 In order to get the best out of the template:
 
-* Don't remove any lines from the `.gitignore` file we provide
-* Make sure your results can be reproduced by following a [data engineering convention](https://docs.kedro.org/en/stable/faq/faq.html#what-is-data-engineering-convention)
-* Don't commit data to your repository
-* Don't commit any credentials or your local configuration to your repository. Keep all your credentials and local configuration in `conf/local/`
+* Don't remove any lines from the `.gitignore` file we provide.
+* Make sure your results can be reproduced by following a [data engineering convention](https://docs.kedro.org/en/stable/faq/faq.html#what-is-data-engineering-convention).
+* Don't commit data to your repository.
+* Don't commit any credentials or your local configuration to your repository. Keep all your credentials and local configuration in `conf/local/`.
+
 
 ## How to install dependencies
 
@@ -25,7 +24,7 @@ To install them, run:
 pip install -r requirements.txt
 ```
 
-## How to run your Kedro pipeline
+## How to run  Kedro pipeline
 
 You can run your Kedro project with:
 
@@ -33,15 +32,12 @@ You can run your Kedro project with:
 kedro run
 ```
 
-## How to test your Kedro project
-
-Have a look at the files `src/tests/test_run.py` and `src/tests/pipelines/data_science/test_pipeline.py` for instructions on how to write your tests. Run the tests as follows:
+## How to run Streamlit app
 
 ```
-pytest
+streamlit run score_model.py 
 ```
 
-To configure the coverage threshold, look at the `.coveragerc` file.
 
 ## Project dependencies
 

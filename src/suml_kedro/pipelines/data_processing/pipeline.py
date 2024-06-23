@@ -1,5 +1,4 @@
 from kedro.pipeline import Pipeline, node, pipeline
-import pandas as pd
 
 from .nodes import process_car_prices, get_car_mapping, get_untied_parameters
 
