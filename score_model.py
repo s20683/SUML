@@ -20,7 +20,7 @@ selected_subfolder = st.sidebar.selectbox('Select model:', subfolders)
 selected_subfolder_path = models_dir / selected_subfolder
 
 # Load the trained predictor
-predictor = TabularPredictor.load(selected_subfolder_path)
+predictor = TabularPredictor.load(selected_subfolder_path, require_py_version_match=False)
 
 st.sidebar.markdown("# Model Metrics")
 metrics_file = os.path.join(selected_subfolder_path, "metrics.txt")
